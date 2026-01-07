@@ -1,0 +1,62 @@
+[
+  {
+    "id": "nero-dewar-2025",
+    "title": "NERO DEWAR",
+    "type": "album",
+    "releaseDate": "2025-08-09",
+    "genre": "Rap",
+    "songs": 10,
+    "duration": "24:00",
+    "artwork": "assets/artwork/nero-dewar-2025/cover.png"
+  },
+  {
+    "id": "sun-moon-chopped-skrued-2025",
+    "title": "Sun & Moon (Chopped + Skrued)",
+    "type": "album",
+    "releaseDate": "2025-08-06",
+    "genre": "Electronic",
+    "songs": 12,
+    "duration": "43:00",
+    "artwork": "assets/artwork/sun-moon-chopped-skrued-2025/cover.png"
+  },
+  {
+    "id": "sky-burial-2025",
+    "title": "SKY BURIAL",
+    "type": "album",
+    "releaseDate": "2025-08-07",
+    "genre": "Electronic",
+    "songs": 12,
+    "duration": "42:00",
+    "artwork": "assets/artwork/sky-burial-2025/cover.png"
+  },
+  {
+    "id": "clasx-2025",
+    "title": "CLASX",
+    "type": "album",
+    "releaseDate": "2025-11-28",
+    "genre": "Rap / Electronic",
+    "songs": 6,
+    "duration": "17:00",
+    "artwork": "assets/artwork/clasx-2025/cover.png"
+  },
+  {
+    "id": "this-is-it-for-the-evil-forces-2026-single",
+    "title": "THIS IS IT FOR THE EVIL FORCES",
+    "type": "single",
+    "releaseDate": "2026-01-01",
+    "genre": "Rap",
+    "songs": 2,
+    "duration": "3:00",
+    "artwork": "assets/artwork/this-is-it-for-the-evil-forces-2026-single/cover.png"
+  },
+  {
+    "id": "after-hours-2026-single",
+    "title": "AFTER HOURS",
+    "type": "single",
+    "releaseDate": "2026-01-06",
+    "genre": "Rap",
+    "songs": 1,
+    "duration": "2:00",
+    "artwork": "assets/artwork/after-hours-2026-single/cover.png"
+  }
+]
