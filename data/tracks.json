@@ -1,0 +1,351 @@
+[
+  {
+    "id": "nero-dewar-2025-01",
+    "albumId": "nero-dewar-2025",
+    "trackNumber": 1,
+    "title": "212",
+    "src": "assets/music/nero-dewar-2025/01-212.mp3",
+    "artwork": "assets/artwork/nero-dewar-2025/cover.png"
+  },
+  {
+    "id": "nero-dewar-2025-02",
+    "albumId": "nero-dewar-2025",
+    "trackNumber": 2,
+    "title": "GRAVITY",
+    "src": "assets/music/nero-dewar-2025/02-gravity.mp3",
+    "artwork": "assets/artwork/nero-dewar-2025/cover.png"
+  },
+  {
+    "id": "nero-dewar-2025-03",
+    "albumId": "nero-dewar-2025",
+    "trackNumber": 3,
+    "title": "NO APOLOGIES",
+    "src": "assets/music/nero-dewar-2025/03-no-apologies.mp3",
+    "artwork": "assets/artwork/nero-dewar-2025/cover.png"
+  },
+  {
+    "id": "nero-dewar-2025-04",
+    "albumId": "nero-dewar-2025",
+    "trackNumber": 4,
+    "title": "HUMBLE",
+    "src": "assets/music/nero-dewar-2025/04-humble.mp3",
+    "artwork": "assets/artwork/nero-dewar-2025/cover.png"
+  },
+  {
+    "id": "nero-dewar-2025-05",
+    "albumId": "nero-dewar-2025",
+    "trackNumber": 5,
+    "title": "GOD WINS! FIGHT FOR SURVIVAL",
+    "src": "assets/music/nero-dewar-2025/05-god-wins-fight-for-survival.mp3",
+    "artwork": "assets/artwork/nero-dewar-2025/cover.png"
+  },
+  {
+    "id": "nero-dewar-2025-06",
+    "albumId": "nero-dewar-2025",
+    "trackNumber": 6,
+    "title": "DARKEST",
+    "src": "assets/music/nero-dewar-2025/06-darkest.mp3",
+    "artwork": "assets/artwork/nero-dewar-2025/cover.png"
+  },
+  {
+    "id": "nero-dewar-2025-07",
+    "albumId": "nero-dewar-2025",
+    "trackNumber": 7,
+    "title": "TALLAHASSEE",
+    "src": "assets/music/nero-dewar-2025/07-tallahassee.mp3",
+    "artwork": "assets/artwork/nero-dewar-2025/cover.png"
+  },
+  {
+    "id": "nero-dewar-2025-08",
+    "albumId": "nero-dewar-2025",
+    "trackNumber": 8,
+    "title": "ENDEARING",
+    "src": "assets/music/nero-dewar-2025/08-endearing.mp3",
+    "artwork": "assets/artwork/nero-dewar-2025/cover.png"
+  },
+  {
+    "id": "nero-dewar-2025-09",
+    "albumId": "nero-dewar-2025",
+    "trackNumber": 9,
+    "title": "EULOGY",
+    "src": "assets/music/nero-dewar-2025/09-eulogy.mp3",
+    "artwork": "assets/artwork/nero-dewar-2025/cover.png"
+  },
+  {
+    "id": "nero-dewar-2025-10",
+    "albumId": "nero-dewar-2025",
+    "trackNumber": 10,
+    "title": "I AM GOD.",
+    "src": "assets/music/nero-dewar-2025/10-i-am-god.mp3",
+    "artwork": "assets/artwork/nero-dewar-2025/cover.png"
+  },
+
+  {
+    "id": "sun-moon-2025-01",
+    "albumId": "sun-moon-chopped-skrued-2025",
+    "trackNumber": 1,
+    "title": "Married At Noon",
+    "src": "assets/music/sun-moon-chopped-skrued-2025/01-married-at-noon.mp3",
+    "artwork": "assets/artwork/sun-moon-chopped-skrued-2025/cover.png"
+  },
+  {
+    "id": "sun-moon-2025-02",
+    "albumId": "sun-moon-chopped-skrued-2025",
+    "trackNumber": 2,
+    "title": "Nightmare",
+    "src": "assets/music/sun-moon-chopped-skrued-2025/02-nightmare.mp3",
+    "artwork": "assets/artwork/sun-moon-chopped-skrued-2025/cover.png"
+  },
+  {
+    "id": "sun-moon-2025-03",
+    "albumId": "sun-moon-chopped-skrued-2025",
+    "trackNumber": 3,
+    "title": "(Un)Real",
+    "src": "assets/music/sun-moon-chopped-skrued-2025/03-un-real.mp3",
+    "artwork": "assets/artwork/sun-moon-chopped-skrued-2025/cover.png"
+  },
+  {
+    "id": "sun-moon-2025-04",
+    "albumId": "sun-moon-chopped-skrued-2025",
+    "trackNumber": 4,
+    "title": "Rise",
+    "src": "assets/music/sun-moon-chopped-skrued-2025/04-rise.mp3",
+    "artwork": "assets/artwork/sun-moon-chopped-skrued-2025/cover.png"
+  },
+  {
+    "id": "sun-moon-2025-05",
+    "albumId": "sun-moon-chopped-skrued-2025",
+    "trackNumber": 5,
+    "title": "Affective Acoustics",
+    "src": "assets/music/sun-moon-chopped-skrued-2025/05-affective-acoustics.mp3",
+    "artwork": "assets/artwork/sun-moon-chopped-skrued-2025/cover.png"
+  },
+  {
+    "id": "sun-moon-2025-06",
+    "albumId": "sun-moon-chopped-skrued-2025",
+    "trackNumber": 6,
+    "title": "Sun & Moon 2009",
+    "src": "assets/music/sun-moon-chopped-skrued-2025/06-sun-and-moon-2009.mp3",
+    "artwork": "assets/artwork/sun-moon-chopped-skrued-2025/cover.png"
+  },
+  {
+    "id": "sun-moon-2025-07",
+    "albumId": "sun-moon-chopped-skrued-2025",
+    "trackNumber": 7,
+    "title": "Home (Interlude)",
+    "src": "assets/music/sun-moon-chopped-skrued-2025/07-home-interlude.mp3",
+    "artwork": "assets/artwork/sun-moon-chopped-skrued-2025/cover.png"
+  },
+  {
+    "id": "sun-moon-2025-08",
+    "albumId": "sun-moon-chopped-skrued-2025",
+    "trackNumber": 8,
+    "title": "Falling",
+    "src": "assets/music/sun-moon-chopped-skrued-2025/08-falling.mp3",
+    "artwork": "assets/artwork/sun-moon-chopped-skrued-2025/cover.png"
+  },
+  {
+    "id": "sun-moon-2025-09",
+    "albumId": "sun-moon-chopped-skrued-2025",
+    "trackNumber": 9,
+    "title": "Moonshot 2004",
+    "src": "assets/music/sun-moon-chopped-skrued-2025/09-moonshot-2004.mp3",
+    "artwork": "assets/artwork/sun-moon-chopped-skrued-2025/cover.png"
+  },
+  {
+    "id": "sun-moon-2025-10",
+    "albumId": "sun-moon-chopped-skrued-2025",
+    "trackNumber": 10,
+    "title": "Affective Acoustics (Chopped + Skrued)",
+    "src": "assets/music/sun-moon-chopped-skrued-2025/10-affective-acoustics-chopped-skrued.mp3",
+    "artwork": "assets/artwork/sun-moon-chopped-skrued-2025/cover.png"
+  },
+  {
+    "id": "sun-moon-2025-11",
+    "albumId": "sun-moon-chopped-skrued-2025",
+    "trackNumber": 11,
+    "title": "Nightmare (Chopped + Skrued)",
+    "src": "assets/music/sun-moon-chopped-skrued-2025/11-nightmare-chopped-skrued.mp3",
+    "artwork": "assets/artwork/sun-moon-chopped-skrued-2025/cover.png"
+  },
+  {
+    "id": "sun-moon-2025-12",
+    "albumId": "sun-moon-chopped-skrued-2025",
+    "trackNumber": 12,
+    "title": "Unreal (Chopped + Skrued)",
+    "src": "assets/music/sun-moon-chopped-skrued-2025/12-unreal-chopped-skrued.mp3",
+    "artwork": "assets/artwork/sun-moon-chopped-skrued-2025/cover.png"
+  },
+
+  {
+    "id": "sky-burial-2025-01",
+    "albumId": "sky-burial-2025",
+    "trackNumber": 1,
+    "title": "INTRODUCTION",
+    "src": "assets/music/sky-burial-2025/01-introduction.mp3",
+    "artwork": "assets/artwork/sky-burial-2025/cover.png"
+  },
+  {
+    "id": "sky-burial-2025-02",
+    "albumId": "sky-burial-2025",
+    "trackNumber": 2,
+    "title": "SKY BURIAL",
+    "src": "assets/music/sky-burial-2025/02-sky-burial.mp3",
+    "artwork": "assets/artwork/sky-burial-2025/cover.png"
+  },
+  {
+    "id": "sky-burial-2025-03",
+    "albumId": "sky-burial-2025",
+    "trackNumber": 3,
+    "title": "IS IT MY TURN TO SPEAK?!",
+    "src": "assets/music/sky-burial-2025/03-is-it-my-turn-to-speak.mp3",
+    "artwork": "assets/artwork/sky-burial-2025/cover.png"
+  },
+  {
+    "id": "sky-burial-2025-04",
+    "albumId": "sky-burial-2025",
+    "trackNumber": 4,
+    "title": "GREY SKEEVE",
+    "src": "assets/music/sky-burial-2025/04-grey-skeeve.mp3",
+    "artwork": "assets/artwork/sky-burial-2025/cover.png"
+  },
+  {
+    "id": "sky-burial-2025-05",
+    "albumId": "sky-burial-2025",
+    "trackNumber": 5,
+    "title": "EVERY TIME YOU DIE…",
+    "src": "assets/music/sky-burial-2025/05-every-time-you-die.mp3",
+    "artwork": "assets/artwork/sky-burial-2025/cover.png"
+  },
+  {
+    "id": "sky-burial-2025-06",
+    "albumId": "sky-burial-2025",
+    "trackNumber": 6,
+    "title": "JUNE 3RD",
+    "src": "assets/music/sky-burial-2025/06-june-3rd.mp3",
+    "artwork": "assets/artwork/sky-burial-2025/cover.png"
+  },
+  {
+    "id": "sky-burial-2025-07",
+    "albumId": "sky-burial-2025",
+    "trackNumber": 7,
+    "title": "COLLISION",
+    "src": "assets/music/sky-burial-2025/07-collision.mp3",
+    "artwork": "assets/artwork/sky-burial-2025/cover.png"
+  },
+  {
+    "id": "sky-burial-2025-08",
+    "albumId": "sky-burial-2025",
+    "trackNumber": 8,
+    "title": "GOD’S NOT LISTENING",
+    "src": "assets/music/sky-burial-2025/08-gods-not-listening.mp3",
+    "artwork": "assets/artwork/sky-burial-2025/cover.png"
+  },
+  {
+    "id": "sky-burial-2025-09",
+    "albumId": "sky-burial-2025",
+    "trackNumber": 9,
+    "title": "BREATHE",
+    "src": "assets/music/sky-burial-2025/09-breathe.mp3",
+    "artwork": "assets/artwork/sky-burial-2025/cover.png"
+  },
+  {
+    "id": "sky-burial-2025-10",
+    "albumId": "sky-burial-2025",
+    "trackNumber": 10,
+    "title": "MY BEST FRIENDS",
+    "src": "assets/music/sky-burial-2025/10-my-best-friends.mp3",
+    "artwork": "assets/artwork/sky-burial-2025/cover.png"
+  },
+  {
+    "id": "sky-burial-2025-11",
+    "albumId": "sky-burial-2025",
+    "trackNumber": 11,
+    "title": "PHANTOM OF THE HEART",
+    "src": "assets/music/sky-burial-2025/11-phantom-of-the-heart.mp3",
+    "artwork": "assets/artwork/sky-burial-2025/cover.png"
+  },
+  {
+    "id": "sky-burial-2025-12",
+    "albumId": "sky-burial-2025",
+    "trackNumber": 12,
+    "title": "THE END, SO FAR…",
+    "src": "assets/music/sky-burial-2025/12-the-end-so-far.mp3",
+    "artwork": "assets/artwork/sky-burial-2025/cover.png"
+  },
+
+  {
+    "id": "clasx-2025-01",
+    "albumId": "clasx-2025",
+    "trackNumber": 1,
+    "title": "WARMER",
+    "src": "assets/music/clasx-2025/01-warmer.mp3",
+    "artwork": "assets/artwork/clasx-2025/cover.png"
+  },
+  {
+    "id": "clasx-2025-02",
+    "albumId": "clasx-2025",
+    "trackNumber": 2,
+    "title": "HEARTBEAT",
+    "src": "assets/music/clasx-2025/02-heartbeat.mp3",
+    "artwork": "assets/artwork/clasx-2025/cover.png"
+  },
+  {
+    "id": "clasx-2025-03",
+    "albumId": "clasx-2025",
+    "trackNumber": 3,
+    "title": "BLESSED",
+    "src": "assets/music/clasx-2025/03-blessed.mp3",
+    "artwork": "assets/artwork/clasx-2025/cover.png"
+  },
+  {
+    "id": "clasx-2025-04",
+    "albumId": "clasx-2025",
+    "trackNumber": 4,
+    "title": "I LOVE U",
+    "src": "assets/music/clasx-2025/04-i-love-u.mp3",
+    "artwork": "assets/artwork/clasx-2025/cover.png"
+  },
+  {
+    "id": "clasx-2025-05",
+    "albumId": "clasx-2025",
+    "trackNumber": 5,
+    "title": "OUT WITH THE TIDES",
+    "src": "assets/music/clasx-2025/05-out-with-the-tides.mp3",
+    "artwork": "assets/artwork/clasx-2025/cover.png"
+  },
+  {
+    "id": "clasx-2025-06",
+    "albumId": "clasx-2025",
+    "trackNumber": 6,
+    "title": "UNFORGETTABLE",
+    "src": "assets/music/clasx-2025/06-unforgettable.mp3",
+    "artwork": "assets/artwork/clasx-2025/cover.png"
+  },
+
+  {
+    "id": "evil-forces-2026-01",
+    "albumId": "this-is-it-for-the-evil-forces-2026-single",
+    "trackNumber": 1,
+    "title": "THIS IS IT FOR THE EVIL FORCES",
+    "src": "assets/music/this-is-it-for-the-evil-forces-2026-single/01-this-is-it-for-the-evil-forces.mp3",
+    "artwork": "assets/artwork/this-is-it-for-the-evil-forces-2026-single/cover.png"
+  },
+  {
+    "id": "evil-forces-2026-02",
+    "albumId": "this-is-it-for-the-evil-forces-2026-single",
+    "trackNumber": 2,
+    "title": "MIRACLES ON ICE",
+    "src": "assets/music/this-is-it-for-the-evil-forces-2026-single/02-miracles-on-ice.mp3",
+    "artwork": "assets/artwork/this-is-it-for-the-evil-forces-2026-single/cover.png"
+  },
+
+  {
+    "id": "after-hours-2026-01",
+    "albumId": "after-hours-2026-single",
+    "trackNumber": 1,
+    "title": "AFTER HOURS",
+    "src": "assets/music/after-hours-2026-single/01-after-hours.mp3",
+    "artwork": "assets/artwork/after-hours-2026-single/cover.png"
+  }
+]
