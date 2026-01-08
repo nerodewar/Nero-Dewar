@@ -10,16 +10,6 @@
     "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_2800.png"
   },
   {
-    "id": "sun-moon-chopped-skrued-2025",
-    "title": "Sun & Moon (Chopped + Skrued)",
-    "type": "album",
-    "releaseDate": "2025-08-06",
-    "genre": "Electronic",
-    "songs": 12,
-    "duration": "43:00",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_2832.png"
-  },
-  {
     "id": "warmer-2025",
     "title": "WARMER",
     "type": "Single",
@@ -42,7 +32,7 @@
   {
     "id": "after-hours-2026-single",
     "title": "AFTER HOURS",
-    "type": "single",
+    "type": "Lastest release",
     "releaseDate": "2026-01-06",
     "genre": "Rap",
     "songs": 1,
