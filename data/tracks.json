@@ -336,16 +336,16 @@
     "albumId": "this-is-it-for-the-evil-forces-2026-single",
     "trackNumber": 1,
     "title": "THIS IS IT FOR THE EVIL FORCES",
-    "src": "assets/music/this-is-it-for-the-evil-forces-2026-single/01-this-is-it-for-the-evil-forces.mp3",
-    "artwork": "assets/artwork/this-is-it-for-the-evil-forces-2026-single/cover.png"
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/03-LANDR-2.%20Untitled_11-Warm-High.mp3",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_3561.jpeg"
   },
   {
     "id": "evil-forces-2026-02",
     "albumId": "this-is-it-for-the-evil-forces-2026-single",
     "trackNumber": 2,
     "title": "MIRACLES ON ICE",
-    "src": "assets/music/this-is-it-for-the-evil-forces-2026-single/02-miracles-on-ice.mp3",
-    "artwork": "assets/artwork/this-is-it-for-the-evil-forces-2026-single/cover.png"
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/LANDR-1.%20MIRACLES-Warm-High%202.mp3",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_3561.jpeg"
   },
 
   {
@@ -353,7 +353,7 @@
     "albumId": "after-hours-2026-single",
     "trackNumber": 1,
     "title": "AFTER HOURS",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/LANDR-Trust%202.0-Balanced-High.mp3",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/LANDR-comes%20in%20waves-Open-High.mp3",
     "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_3705.png"
   }
 ]
