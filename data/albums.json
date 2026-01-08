@@ -17,7 +17,7 @@
     "genre": "Electronic",
     "songs": 12,
     "duration": "43:00",
-    "artwork": "assets/artwork/sun-moon-chopped-skrued-2025/cover.png"
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_2832.png"
   },
   {
     "id": "sky-burial-2025",
@@ -27,17 +27,7 @@
     "genre": "Electronic",
     "songs": 12,
     "duration": "42:00",
-    "artwork": "assets/artwork/sky-burial-2025/cover.png"
-  },
-  {
-    "id": "clasx-2025",
-    "title": "CLASX",
-    "type": "album",
-    "releaseDate": "2025-11-28",
-    "genre": "Rap / Electronic",
-    "songs": 6,
-    "duration": "17:00",
-    "artwork": "assets/artwork/clasx-2025/cover.png"
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_2775.png"
   },
   {
     "id": "this-is-it-for-the-evil-forces-2026-single",
@@ -47,7 +37,7 @@
     "genre": "Rap",
     "songs": 2,
     "duration": "3:00",
-    "artwork": "assets/artwork/this-is-it-for-the-evil-forces-2026-single/cover.png"
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_3561.jpeg"
   },
   {
     "id": "after-hours-2026-single",
@@ -57,6 +47,6 @@
     "genre": "Rap",
     "songs": 1,
     "duration": "2:00",
-    "artwork": "assets/artwork/after-hours-2026-single/cover.png"
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_3705.png"
   }
 ]
