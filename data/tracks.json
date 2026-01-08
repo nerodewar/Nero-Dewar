@@ -353,7 +353,7 @@
     "albumId": "after-hours-2026-single",
     "trackNumber": 1,
     "title": "AFTER HOURS",
-    "src": "assets/music/after-hours-2026-single/01-after-hours.mp3",
-    "artwork": "assets/artwork/after-hours-2026-single/cover.png"
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/LANDR-Trust%202.0-Balanced-High.mp3",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_3705.png"
   }
 ]
