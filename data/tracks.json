@@ -12,72 +12,80 @@
     "albumId": "nero-dewar-2025",
     "trackNumber": 2,
     "title": "GRAVITY",
-    "src": "assets/music/nero-dewar-2025/02-gravity.mp3",
-    "artwork": "assets/artwork/nero-dewar-2025/cover.png"
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/NERO%20DEWAR%20(FULL%20ALBUM)/02-LANDR-2.%20GRAVITY%20(Fima)-Balanced-High.mp3,
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_2800.png"
   },
   {
     "id": "nero-dewar-2025-03",
     "albumId": "nero-dewar-2025",
     "trackNumber": 3,
     "title": "NO APOLOGIES",
-    "src": "assets/music/nero-dewar-2025/03-no-apologies.mp3",
-    "artwork": "assets/artwork/nero-dewar-2025/cover.png"
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/NERO%20DEWAR%20(FULL%20ALBUM)/04-LANDR-4.%20HUMBLE%20(Fima)-Balanced-High.mp3",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/NERO%20DEWAR%20(FULL%20ALBUM)/03-LANDR-3.%20NO%20APOLOGIES%20(Fima)-Balanced-High.mp3"
   },
   {
     "id": "nero-dewar-2025-04",
     "albumId": "nero-dewar-2025",
     "trackNumber": 4,
     "title": "HUMBLE",
-    "src": "assets/music/nero-dewar-2025/04-humble.mp3",
-    "artwork": "assets/artwork/nero-dewar-2025/cover.png"
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/NERO%20DEWAR%20(FULL%20ALBUM)/05-LANDR-5.%20GOD%20WINS!%20(Fima)-Balanced-High.mp3",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_2800.png"
   },
   {
     "id": "nero-dewar-2025-05",
     "albumId": "nero-dewar-2025",
     "trackNumber": 5,
-    "title": "GOD WINS! FIGHT FOR SURVIVAL",
-    "src": "assets/music/nero-dewar-2025/05-god-wins-fight-for-survival.mp3",
-    "artwork": "assets/artwork/nero-dewar-2025/cover.png"
+    "title": "GOD WINS!",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/NERO%20DEWAR%20(FULL%20ALBUM)/05-LANDR-5.%20GOD%20WINS!%20(Fima)-Balanced-High.mp3",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_2800.png"
+  },
+  {
+    "id": "nero-dewar-2025-05",
+    "albumId": "nero-dewar-2025",
+    "trackNumber": 6,
+    "title": "FIGHT FOR SURVIVAL",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/NERO%20DEWAR%20(FULL%20ALBUM)/06-LANDR-6.%20FIGHT%20FOR%20SURVIVAL%20(Fima)-Balanced-High.mp3",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_2800.png"
   },
   {
     "id": "nero-dewar-2025-06",
     "albumId": "nero-dewar-2025",
-    "trackNumber": 6,
+    "trackNumber": 7,
     "title": "DARKEST",
-    "src": "assets/music/nero-dewar-2025/06-darkest.mp3",
-    "artwork": "assets/artwork/nero-dewar-2025/cover.png"
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/NERO%20DEWAR%20(FULL%20ALBUM)/07-LANDR-7.%20DARKEST%20(Fima)-Balanced-High.mp3",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_2800.png"
   },
   {
     "id": "nero-dewar-2025-07",
     "albumId": "nero-dewar-2025",
-    "trackNumber": 7,
+    "trackNumber": 8,
     "title": "TALLAHASSEE",
-    "src": "assets/music/nero-dewar-2025/07-tallahassee.mp3",
-    "artwork": "assets/artwork/nero-dewar-2025/cover.png"
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/NERO%20DEWAR%20(FULL%20ALBUM)/08-LANDR-8.%20TALLAHASSEE%20(Fima)-Balanced-High.mp3",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_2800.png"
   },
   {
     "id": "nero-dewar-2025-08",
     "albumId": "nero-dewar-2025",
-    "trackNumber": 8,
+    "trackNumber": 9,
     "title": "ENDEARING",
-    "src": "assets/music/nero-dewar-2025/08-endearing.mp3",
-    "artwork": "assets/artwork/nero-dewar-2025/cover.png"
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/NERO%20DEWAR%20(FULL%20ALBUM)/09-LANDR-9.%20ENDEARING%20(Fima)-Balanced-High.mp3",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_2800.png"
   },
   {
     "id": "nero-dewar-2025-09",
     "albumId": "nero-dewar-2025",
-    "trackNumber": 9,
+    "trackNumber": 10,
     "title": "EULOGY",
-    "src": "assets/music/nero-dewar-2025/09-eulogy.mp3",
-    "artwork": "assets/artwork/nero-dewar-2025/cover.png"
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/NERO%20DEWAR%20(FULL%20ALBUM)/10-LANDR-10.%20EULOGY%20(Fima)-Balanced-High.mp3",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_2800.png"
   },
   {
     "id": "nero-dewar-2025-10",
     "albumId": "nero-dewar-2025",
-    "trackNumber": 10,
+    "trackNumber": 11,
     "title": "I AM GOD.",
-    "src": "assets/music/nero-dewar-2025/10-i-am-god.mp3",
-    "artwork": "assets/artwork/nero-dewar-2025/cover.png"
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/NERO%20DEWAR%20(FULL%20ALBUM)/11-LANDR-11.%20MA%20ANAMAYA%20(Fima)-Balanced-High.mp3",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_2800.png"
   },
 
   {
