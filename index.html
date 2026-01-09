@@ -71,21 +71,13 @@ header{
     0 0 30px rgba(226,64,10,.35);
 }
 
-/* Home button in same vibe */
-.home-btn{
-  margin-left:auto;
+/* Make title clickable */
+.logo-btn{
   cursor:pointer;
-  font-weight:1000;
-  text-transform:uppercase;
-  color:var(--accent);
-  letter-spacing:1px;
-  text-shadow:
-    2px 0 rgba(0,255,140,.22),
-   -2px 0 rgba(255,40,0,.32),
-    0 0 18px rgba(226,64,10,.35);
   user-select:none;
+  display:inline-block;
 }
-.home-btn:hover{opacity:.85}
+.logo-btn:hover{opacity:.9}
 
 /* Scenes */
 .scene{display:none}
@@ -230,7 +222,34 @@ header{
   text-overflow:ellipsis;
 }
 
-/* ===== PLAYER (matches your screenshot vibe) ===== */
+/* About Me (Home screen only) */
+.about-card{
+  margin-top:20px;
+  padding:16px;
+  border-radius:18px;
+  border:1px solid rgba(112,53,15,.55);
+  background:linear-gradient(180deg, rgba(18,18,26,.95), rgba(15,15,20,.95));
+  box-shadow:var(--shadow),0 0 26px rgba(226,64,10,.18);
+}
+.about-label{
+  color:var(--muted);
+  font-size:13px;
+  text-transform:uppercase;
+  letter-spacing:.9px;
+  margin:0 0 10px;
+}
+.about-text{
+  margin:0;
+  line-height:1.55;
+  font-size:14px;
+  max-width:75ch;
+}
+.about-text strong{
+  color:var(--accentHi);
+  font-weight:1000;
+}
+
+/* ===== PLAYER (screenshot vibe) ===== */
 .player{
   position:sticky;
   bottom:0;
@@ -273,7 +292,6 @@ header{
 .player-title{
   font-weight:1000;
   font-size:22px;
-  letter-spacing:.2px;
   overflow:hidden;
   text-overflow:ellipsis;
   white-space:nowrap;
@@ -295,8 +313,6 @@ header{
   gap:18px;
   flex:0 0 auto;
 }
-
-/* Rounded-square neon buttons */
 .pbtn{
   width:78px;
   height:78px;
@@ -319,8 +335,6 @@ header{
 }
 .pbtn:active{transform:translateY(0px)}
 .pbtn:disabled{opacity:.45;cursor:not-allowed;transform:none}
-
-/* Center play button larger */
 .pbtn.primary{
   width:92px;
   height:92px;
@@ -330,8 +344,6 @@ header{
     0 0 30px rgba(226,64,10,.24),
     inset 0 0 0 1px rgba(0,0,0,.25);
 }
-
-/* Icons with chroma ghosting */
 .icon{
   width:30px;
   height:30px;
@@ -379,7 +391,7 @@ footer{
   text-align:center;
   color:var(--muted);
   font-size:12px;
-  padding:28px 0 140px; /* room for player */
+  padding:28px 0 140px;
 }
 
 /* Mobile */
@@ -395,8 +407,8 @@ footer{
 <body>
 <header>
   <div class="wrap" style="display:flex;align-items:flex-end;gap:20px">
-    <div class="logo">NERO DEWAR</div>
-    <div id="homeBtn" class="home-btn" style="display:none">HOME</div>
+    <!-- Title is now HOME button -->
+    <div id="titleHomeBtn" class="logo logo-btn" title="Home">NERO DEWAR</div>
   </div>
 </header>
 
@@ -404,6 +416,18 @@ footer{
   <!-- CATALOGUE SCENE -->
   <section id="catalogueScene" class="scene active">
     <div id="albumGrid" class="album-grid"></div>
+
+    <!-- About Me (Home only) -->
+    <div class="about-card">
+      <div class="about-label">About</div>
+      <p class="about-text">
+        <strong>Nero Dewar</strong>, also known as <strong>James Ritchie</strong>, is a record producer and vocalist from
+        <strong>South London</strong>. His enigmatic profile makes him one of the most diverse and prolific music producers
+        in the world. In <strong>2025</strong>, he released <strong>10 albums</strong> and over <strong>120 songs</strong>.
+        Visit his SoundCloud or Spotify for more…
+      </p>
+    </div>
+
     <footer>Copyright © 2026 James Ritchie. All rights reserved.</footer>
   </section>
 
@@ -484,7 +508,8 @@ const moreAlbums = document.getElementById("moreAlbums");
 
 const catalogueScene = document.getElementById("catalogueScene");
 const albumScene = document.getElementById("albumScene");
-const homeBtn = document.getElementById("homeBtn");
+
+const titleHomeBtn = document.getElementById("titleHomeBtn");
 
 const releaseCover = document.getElementById("releaseCover");
 const releaseTitle = document.getElementById("releaseTitle");
@@ -510,13 +535,14 @@ function show(scene){
   catalogueScene.classList.remove("active");
   albumScene.classList.remove("active");
   scene.classList.add("active");
-  homeBtn.style.display = (scene === albumScene) ? "block" : "none";
 }
 
-homeBtn.onclick = () => {
+function goHome(){
   show(catalogueScene);
   history.replaceState(null, "", "#");
-};
+}
+
+titleHomeBtn.addEventListener("click", goHome);
 
 function formatTime(sec){
   if (!isFinite(sec) || sec < 0) sec = 0;
@@ -532,6 +558,15 @@ function setPlayUI(isPlaying){
 
 function getAlbum(id){
   return albums.find(a => a.id === id) || null;
+}
+
+function renderCatalogue(){
+  albumGrid.innerHTML = albums.map(a => `
+    <div class="album-card" onclick="openAlbum('${a.id}')">
+      <img src="${a.artwork}" alt="${a.title} cover" loading="lazy">
+      <div class="album-meta">${a.title}</div>
+    </div>
+  `).join("");
 }
 
 function openAlbum(id){
@@ -610,7 +645,6 @@ window.playFromQueue = playFromQueue;
 
 function togglePlay(){
   if (!audio.src){
-    // if nothing loaded, try first playable track in current queue
     const first = queue.findIndex(x => x.src);
     if (first >= 0) playFromQueue(first);
     return;
@@ -644,15 +678,6 @@ bar.addEventListener("click", (e) => {
   audio.currentTime = pct * audio.duration;
 });
 
-function renderCatalogue(){
-  albumGrid.innerHTML = albums.map(a => `
-    <div class="album-card" onclick="openAlbum('${a.id}')">
-      <img src="${a.artwork}" alt="${a.title} cover" loading="lazy">
-      <div class="album-meta">${a.title}</div>
-    </div>
-  `).join("");
-}
-
 function parseHash(){
   const raw = (location.hash || "").replace(/^#/, "");
   return new URLSearchParams(raw);
@@ -662,11 +687,14 @@ window.addEventListener("hashchange", () => {
   const p = parseHash();
   const rel = p.get("release");
   const trk = p.get("track");
+
   if (!rel){
-    show(catalogueScene);
+    goHome();
     return;
   }
+
   openAlbum(rel);
+
   if (trk){
     const i = queue.findIndex(t => t.id === trk);
     if (i >= 0) playFromQueue(i);
@@ -679,7 +707,7 @@ window.addEventListener("hashchange", () => {
 
   renderCatalogue();
 
-  // Initialize player art/title with something safe
+  // Initialize player with a safe artwork
   playerArt.src = albums[0]?.artwork || "";
   playerArt.alt = "";
   playerTitle.textContent = "Select a track";
@@ -687,7 +715,6 @@ window.addEventListener("hashchange", () => {
   setPlayUI(false);
   updatePrevNextDisabled();
 
-  // If hash says open a release immediately
   const p = parseHash();
   const rel = p.get("release");
   const trk = p.get("track");
@@ -698,7 +725,7 @@ window.addEventListener("hashchange", () => {
       if (i >= 0) playFromQueue(i);
     }
   } else {
-    show(catalogueScene);
+    goHome();
   }
 })();
 </script>
