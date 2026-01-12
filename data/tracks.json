@@ -331,10 +331,34 @@
     "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_3724.png"
   },
   {
-    "id": "psilacetin-2026",
+    "id": "psilacetin-2026-01",
     "albumId": "psilacetin-2026",
     "trackNumber": 1,
-    "title": "",
+    "title": "Drive-by Romantic",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/LANDR-My%20Song%2042%20(DRIVE-BY%20ROMANTIC)-Open-High.mp3",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3727.png"
+  },
+  {
+    "id": "psilacetin-2026-02",
+    "albumId": "psilacetin-2026",
+    "trackNumber": 2,
+    "title": "Push To Start",
+    "src": "",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3727.png"
+  },
+  {
+    "id": "psilacetin-2026-03",
+    "albumId": "psilacetin-2026",
+    "trackNumber": 3,
+    "title": "Switch/ Injury",
+    "src": "",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3727.png"
+  },
+  {
+    "id": "psilacetin-2026-04",
+    "albumId": "psilacetin-2026",
+    "trackNumber": 4,
+    "title": "Serra Angel",
     "src": "",
     "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3727.png"
   }
