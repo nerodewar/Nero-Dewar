@@ -331,11 +331,67 @@
     "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3739.jpeg"
   },
   {
-    "id": "higher-2026-01",
-    "albumId": "higher-2026",
+    "id": "aff-2026-01",
+    "albumId": "affective-acoustics-2026",
     "trackNumber": 1,
-    "title": "Higher!",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/My%20Song%2051%20(Higher!)%20(Mastered%20with%20Clear%20Sky%20at%20100pct).mp3",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3754.png"
+    "title": "A proton at the center of your heart",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/My%20Song%2063%20(Proton)%20mastered.wav",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3582.png"
+  }
+  {
+    "id": "aff-2026-02",
+    "albumId": "affective-acoustics-2026",
+    "trackNumber": 2,
+    "title": "Deep Space",
+    "src": "",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3582.png"
+  }
+  {
+    "id": "aff-2026-03",
+    "albumId": "affective-acoustics-2026",
+    "trackNumber": 3,
+    "title": "Flowering",
+    "src": "",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3582.png"
+  }
+  {
+    "id": "aff-2026-04",
+    "albumId": "affective-acoustics-2026",
+    "trackNumber": 4,
+    "title": "Follow the light",
+    "src": "",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3582.png"
+  }
+  {
+    "id": "aff-2026-05",
+    "albumId": "affective-acoustics-2026",
+    "trackNumber": 5,
+    "title": "Nurture",
+    "src": "",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3582.png"
+  }
+  {
+    "id": "aff-2026-06",
+    "albumId": "affective-acoustics-2026",
+    "trackNumber": 6,
+    "title": "Untitled",
+    "src": "",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3582.png"
+  }
+  {
+    "id": "aff-2026-07",
+    "albumId": "affective-acoustics-2026",
+    "trackNumber": 7,
+    "title": "Ambition",
+    "src": "",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3582.png"
+  }
+  {
+    "id": "aff-2026-08",
+    "albumId": "affective-acoustics-2026",
+    "trackNumber": 8,
+    "title": "Deep Breaths",
+    "src": "",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3582.png"
   }
 ]
