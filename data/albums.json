@@ -27,7 +27,7 @@
     "genre": "Electronic",
     "songs": 1,
     "duration": "3 min",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3551.jpeg"
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3582.png"
   },
   {
     "id": "nero-2026",
@@ -40,13 +40,13 @@
     "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3739.jpeg"
   },
   {
-    "id": "higher-2026",
-    "title": "Higher!",
-    "type": "single",
-    "releaseDate": "2026-01-26",
-    "genre": "pop",
+    "id": "affective-acoustics-2026",
+    "title": "Affective Acoustics",
+    "type": "album",
+    "releaseDate": "2026-03-15",
+    "genre": "Electronic",
     "songs": 1,
-    "duration": "3 min",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3754.png"
+    "duration": "47 min",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3582.png"
   }
 ]
