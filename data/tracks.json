@@ -1,397 +1,52 @@
 [
   {
-    "id": "long-live-nero-dewar-2025-01",
-    "albumId": "long-live-nero-dewar-2025",
-    "trackNumber": 1,
-    "title": "Long.Live.Nero.",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/LANDR-Gratitude%20-Warm-High.mp3",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_3639.jpeg"
-  },
-  {
-    "id": "long-live-nero-dewar-2025-02",
-    "albumId": "long-live-nero-dewar-2025",
-    "trackNumber": 2,
-    "title": "(Un)Real",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/Sun%20%26%20Moon%20(Chopped%20%2B%20Skrued)/03-LANDR-3.%20(Un)%20Real-Open-High.mp3",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_3639.jpeg"
-  },
-  {
-    "id": "long-live-nero-dewar-2025-03",
-    "albumId": "long-live-nero-dewar-2025",
-    "trackNumber": 3,
-    "title": "Seance",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/Sun%20%26%20Moon%20(Chopped%20%2B%20Skrued)/LANDR-Seance%20-Balanced-High.mp3",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_3639.jpeg"
-  },
-  {
-    "id": "long-live-nero-dewar-2025-04",
-    "albumId": "long-live-nero-dewar-2025",
-    "trackNumber": 4,
-    "title": "I Am Sort Of God Almighty",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/NERO%20DEWAR%20(FULL%20ALBUM)/11-LANDR-11.%20MA%20ANAMAYA%20(Fima)-Balanced-High.mp3",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_3639.jpeg"
-  },
-  {
-    "id": "long-live-nero-dewar-2025-05",
-    "albumId": "long-live-nero-dewar-2025",
-    "trackNumber": 5,
-    "title": "Tallahassee",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/NERO%20DEWAR%20(FULL%20ALBUM)/08-LANDR-8.%20TALLAHASSEE%20(Fima)-Balanced-High.mp3",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_3639.jpeg"
-  },
-  {
-    "id": "long-live-nero-dewar-2025-06",
-    "albumId": "long-live-nero-dewar-2025",
-    "trackNumber": 6,
-    "title": "212",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/212%20RESTORATION%20(My%20Song%20189).wav",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_3639.jpeg"
-  },
-  {
-    "id": "long-live-nero-dewar-2025-07",
-    "albumId": "long-live-nero-dewar-2025",
-    "trackNumber": 7,
-    "title": "GOD WINS!",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/NERO%20DEWAR%20(FULL%20ALBUM)/05-LANDR-5.%20GOD%20WINS!%20(Fima)-Balanced-High.mp3",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_3639.jpeg"
-  },
-  {
-    "id": "long-live-nero-dewar-2025-08",
-    "albumId": "long-live-nero-dewar-2025",
-    "trackNumber": 8,
-    "title": "NIGHTMARE",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/Sun%20%26%20Moon%20(Chopped%20%2B%20Skrued)/02-LANDR-2.%20Nightmare-Open-High.mp3",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_3639.jpeg"
-  },
-  {
-    "id": "long-live-nero-dewar-2025-09",
-    "albumId": "long-live-nero-dewar-2025",
-    "trackNumber": 9,
-    "title": "Affective Acoustics",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/Sun%20%26%20Moon%20(Chopped%20%2B%20Skrued)/05-LANDR-5.%20Affective%20Acoustics-Open-High.mp3",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_3639.jpeg"
-  },
-  {
-    "id": "long-live-nero-dewar-2025-10",
-    "albumId": "long-live-nero-dewar-2025",
-    "trackNumber": 10,
-    "title": "Grey Sleeve",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/SKY%20BURIAL/GREY%20SLEEVE.mp3",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_3639.jpeg"
-  },
-  {
-    "id": "long-live-nero-dewar-2025-11",
-    "albumId": "long-live-nero-dewar-2025",
-    "trackNumber": 11,
-    "title": "GOD'S NOT LISTENING... (with Devi)",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/SKY%20BURIAL/GOD'S%20NOT%20LISTENING.mp3",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_3639.jpeg"
-  },
-  {
-    "id": "long-live-nero-dewar-2025-12",
-    "albumId": "long-live-nero-dewar-2025",
-    "trackNumber": 12,
-    "title": "June 3rd",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/SKY%20BURIAL/JUNE%203RD.mp3",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_3639.jpeg"
-  },
-  {
-    "id": "long-live-nero-dewar-2025-13",
-    "albumId": "long-live-nero-dewar-2025",
-    "trackNumber": 13,
-    "title": "BREATHE (with Devi)",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/Breathe.wav",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_3639.jpeg"
-  },
-  {
-    "id": "long-live-nero-dewar-2025-14",
-    "albumId": "long-live-nero-dewar-2025",
-    "trackNumber": 14,
-    "title": "SKY BURIAL",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/SKY%20BURIAL/SKY%20BURIAL.mp3",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_3639.jpeg"
-  },
-  
-  {
-    "id": "long-live-nero-dewar-2025-15",
-    "albumId": "long-live-nero-dewar-2025",
-    "trackNumber": 15,
-    "title": "Falling",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/6.%20LANDR-My%20Song%20357-Warm-Medium%206.mp3",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_3639.jpeg"
-  },
-  
-  {
-    "id": "long-live-nero-dewar-2025-16",
-    "albumId": "long-live-nero-dewar-2025",
-    "trackNumber": 16,
-    "title": "Concerto (Outro)",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/concerto%20(outro).wav",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_3639.jpeg"
-  },
-  {
-    "id": "nero-dewar-2025-01",
-    "albumId": "nero-dewar-2025",
-    "trackNumber": 1,
-    "title": "212",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/NERO%20DEWAR%20(FULL%20ALBUM)/01-LANDR-1.%20212%20(Fima)-Balanced-High.mp3",
+    "id": "nero-dewar-2025",
+    "title": "NERO DEWAR",
+    "type": "album",
+    "releaseDate": "2025-08-09",
+    "genre": "Rap",
+    "songs": 10,
+    "duration": "24 min",
     "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_2800.png"
   },
   {
-    "id": "nero-dewar-2025-02",
-    "albumId": "nero-dewar-2025",
-    "trackNumber": 2,
-    "title": "GRAVITY",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/NERO%20DEWAR%20(FULL%20ALBUM)/02-LANDR-2.%20GRAVITY%20(Fima)-Balanced-High.mp3",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_2800.png"
+    "id": "long-live-nero-dewar-2025",
+    "title": "LONG. LIVE. NERO DEWAR.",
+    "type": "album",
+    "releaseDate": "2025-12-28",
+    "genre": "Electronic / Rap",
+    "songs": 8,
+    "duration": "41 min",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_3639.jpeg"
   },
   {
-    "id": "nero-dewar-2025-03",
-    "albumId": "nero-dewar-2025",
-    "trackNumber": 3,
-    "title": "NO APOLOGIES",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/NERO%20DEWAR%20(FULL%20ALBUM)/03-LANDR-3.%20NO%20APOLOGIES%20(Fima)-Balanced-High.mp3",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_2800.png"
-  },
-  {
-    "id": "nero-dewar-2025-04",
-    "albumId": "nero-dewar-2025",
-    "trackNumber": 4,
-    "title": "HUMBLE",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/NERO%20DEWAR%20(FULL%20ALBUM)/04-LANDR-4.%20HUMBLE%20(Fima)-Balanced-High.mp3",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_2800.png"
-  },
-  {
-    "id": "nero-dewar-2025-05",
-    "albumId": "nero-dewar-2025",
-    "trackNumber": 5,
-    "title": "GOD WINS!",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/NERO%20DEWAR%20(FULL%20ALBUM)/05-LANDR-5.%20GOD%20WINS!%20(Fima)-Balanced-High.mp3",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_2800.png"
-  },
-  {
-    "id": "nero-dewar-2025-06",
-    "albumId": "nero-dewar-2025",
-    "trackNumber": 6,
-    "title": "FIGHT FOR SURVIVAL",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/NERO%20DEWAR%20(FULL%20ALBUM)/06-LANDR-6.%20FIGHT%20FOR%20SURVIVAL%20(Fima)-Balanced-High.mp3",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_2800.png"
-  },
-  {
-    "id": "nero-dewar-2025-07",
-    "albumId": "nero-dewar-2025",
-    "trackNumber": 7,
-    "title": "DARKEST",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/NERO%20DEWAR%20(FULL%20ALBUM)/07-LANDR-7.%20DARKEST%20(Fima)-Balanced-High.mp3",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_2800.png"
-  },
-  {
-    "id": "nero-dewar-2025-08",
-    "albumId": "nero-dewar-2025",
-    "trackNumber": 8,
-    "title": "TALLAHASSEE",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/NERO%20DEWAR%20(FULL%20ALBUM)/08-LANDR-8.%20TALLAHASSEE%20(Fima)-Balanced-High.mp3",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_2800.png"
-  },
-  {
-    "id": "nero-dewar-2025-09",
-    "albumId": "nero-dewar-2025",
-    "trackNumber": 9,
-    "title": "ENDEARING",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/NERO%20DEWAR%20(FULL%20ALBUM)/09-LANDR-9.%20ENDEARING%20(Fima)-Balanced-High.mp3",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_2800.png"
-  },
-  {
-    "id": "nero-dewar-2025-10",
-    "albumId": "nero-dewar-2025",
-    "trackNumber": 10,
-    "title": "EULOGY",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/NERO%20DEWAR%20(FULL%20ALBUM)/10-LANDR-10.%20EULOGY%20(Fima)-Balanced-High.mp3",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_2800.png"
-  },
-  {
-    "id": "nero-dewar-2025-11",
-    "albumId": "nero-dewar-2025",
-    "trackNumber": 11,
-    "title": "I AM GOD.",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/NERO%20DEWAR%20(FULL%20ALBUM)/11-LANDR-11.%20MA%20ANAMAYA%20(Fima)-Balanced-High.mp3",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/nero-dewar/IMG_2800.png"
-  },
-
-  {
-    "id": "sun-moon-2025-01",
-    "albumId": "sun-moon-chopped-skrued-2025",
-    "trackNumber": 1,
-    "title": "Married At Noon",
-    "src": "assets/music/sun-moon-chopped-skrued-2025/01-married-at-noon.mp3",
-    "artwork": "assets/artwork/sun-moon-chopped-skrued-2025/cover.png"
-  },
-  {
-    "id": "sun-moon-2025-02",
-    "albumId": "sun-moon-chopped-skrued-2025",
-    "trackNumber": 2,
-    "title": "Nightmare",
-    "src": "assets/music/sun-moon-chopped-skrued-2025/02-nightmare.mp3",
-    "artwork": "assets/artwork/sun-moon-chopped-skrued-2025/cover.png"
-  },
-  {
-    "id": "sun-moon-2025-03",
-    "albumId": "sun-moon-chopped-skrued-2025",
-    "trackNumber": 3,
-    "title": "(Un)Real",
-    "src": "assets/music/sun-moon-chopped-skrued-2025/03-un-real.mp3",
-    "artwork": "assets/artwork/sun-moon-chopped-skrued-2025/cover.png"
-  },
-  {
-    "id": "sun-moon-2025-04",
-    "albumId": "sun-moon-chopped-skrued-2025",
-    "trackNumber": 4,
-    "title": "Rise",
-    "src": "assets/music/sun-moon-chopped-skrued-2025/04-rise.mp3",
-    "artwork": "assets/artwork/sun-moon-chopped-skrued-2025/cover.png"
-  },
-  {
-    "id": "sun-moon-2025-05",
-    "albumId": "sun-moon-chopped-skrued-2025",
-    "trackNumber": 5,
-    "title": "Affective Acoustics",
-    "src": "assets/music/sun-moon-chopped-skrued-2025/05-affective-acoustics.mp3",
-    "artwork": "assets/artwork/sun-moon-chopped-skrued-2025/cover.png"
-  },
-  {
-    "id": "sun-moon-2025-06",
-    "albumId": "sun-moon-chopped-skrued-2025",
-    "trackNumber": 6,
-    "title": "Sun & Moon 2009",
-    "src": "assets/music/sun-moon-chopped-skrued-2025/06-sun-and-moon-2009.mp3",
-    "artwork": "assets/artwork/sun-moon-chopped-skrued-2025/cover.png"
-  },
-  {
-    "id": "sun-moon-2025-07",
-    "albumId": "sun-moon-chopped-skrued-2025",
-    "trackNumber": 7,
-    "title": "Home (Interlude)",
-    "src": "assets/music/sun-moon-chopped-skrued-2025/07-home-interlude.mp3",
-    "artwork": "assets/artwork/sun-moon-chopped-skrued-2025/cover.png"
-  },
-  {
-    "id": "sun-moon-2025-08",
-    "albumId": "sun-moon-chopped-skrued-2025",
-    "trackNumber": 8,
-    "title": "Falling",
-    "src": "assets/music/sun-moon-chopped-skrued-2025/08-falling.mp3",
-    "artwork": "assets/artwork/sun-moon-chopped-skrued-2025/cover.png"
-  },
-  {
-    "id": "sun-moon-2025-09",
-    "albumId": "sun-moon-chopped-skrued-2025",
-    "trackNumber": 9,
-    "title": "Moonshot 2004",
-    "src": "assets/music/sun-moon-chopped-skrued-2025/09-moonshot-2004.mp3",
-    "artwork": "assets/artwork/sun-moon-chopped-skrued-2025/cover.png"
-  },
-  {
-    "id": "sun-moon-2025-10",
-    "albumId": "sun-moon-chopped-skrued-2025",
-    "trackNumber": 10,
-    "title": "Affective Acoustics (Chopped + Skrued)",
-    "src": "assets/music/sun-moon-chopped-skrued-2025/10-affective-acoustics-chopped-skrued.mp3",
-    "artwork": "assets/artwork/sun-moon-chopped-skrued-2025/cover.png"
-  },
-  {
-    "id": "sun-moon-2025-11",
-    "albumId": "sun-moon-chopped-skrued-2025",
-    "trackNumber": 11,
-    "title": "Nightmare (Chopped + Skrued)",
-    "src": "assets/music/sun-moon-chopped-skrued-2025/11-nightmare-chopped-skrued.mp3",
-    "artwork": "assets/artwork/sun-moon-chopped-skrued-2025/cover.png"
-  },
-  {
-    "id": "sun-moon-2025-12",
-    "albumId": "sun-moon-chopped-skrued-2025",
-    "trackNumber": 12,
-    "title": "Unreal (Chopped + Skrued)",
-    "src": "assets/music/sun-moon-chopped-skrued-2025/12-unreal-chopped-skrued.mp3",
-    "artwork": "assets/artwork/sun-moon-chopped-skrued-2025/cover.png"
-  },
-  {
-    "id": "gravity-2.0-2025-11",
-    "albumId": "gravity-2.0",
-    "trackNumber": 1,
+    "id": "gravity-2.0",
     "title": "GRAVITY 2.0",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/LANDR-GRAVITY%202.0-Open-High.mp3",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3551.jpeg"
+    "type": "single",
+    "releaseDate": "2025-11-20",
+    "genre": "Electronic",
+    "songs": 1,
+    "duration": "3 min",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3582.png"
   },
   {
-    "id": "nero-2026-01",
-    "albumId": "nero-2026",
-    "trackNumber": 1,
+    "id": "nero-2026",
     "title": "NERO",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/LANDR-17.01.26%20untitled%202-Open-High.mp3",
+    "type": "single",
+    "releaseDate": "2026-01-17",
+    "genre": "Rap",
+    "songs": 1,
+    "duration": "2 min",
     "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3739.jpeg"
   },
   {
-    "id": "aff-2026-01",
-    "albumId": "affective-acoustics-2026",
-    "trackNumber": 1,
-    "title": "A proton at the center of your heart",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/My%20Song%2063%20(Proton)%20mastered.wav",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3582.png"
-  },
-  {
-    "id": "aff-2026-02",
-    "albumId": "affective-acoustics-2026",
-    "trackNumber": 2,
-    "title": "Deep Space",
-    "src": "",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3582.png"
-  }
-  {
-    "id": "aff-2026-03",
-    "albumId": "affective-acoustics-2026",
-    "trackNumber": 3,
-    "title": "Flowering",
-    "src": "",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3582.png"
-  },
-  {
-    "id": "aff-2026-04",
-    "albumId": "affective-acoustics-2026",
-    "trackNumber": 4,
-    "title": "Follow the light",
-    "src": "",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3582.png"
-  },
-  {
-    "id": "aff-2026-05",
-    "albumId": "affective-acoustics-2026",
-    "trackNumber": 5,
-    "title": "Nurture",
-    "src": "",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3582.png"
-  },
-  {
-    "id": "aff-2026-06",
-    "albumId": "affective-acoustics-2026",
-    "trackNumber": 6,
-    "title": "Untitled",
-    "src": "",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3582.png"
-  },
-  {
-    "id": "aff-2026-07",
-    "albumId": "affective-acoustics-2026",
-    "trackNumber": 7,
-    "title": "Ambition",
-    "src": "",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3582.png"
-  },
-  {
-    "id": "aff-2026-08",
-    "albumId": "affective-acoustics-2026",
-    "trackNumber": 8,
-    "title": "Deep Breaths",
-    "src": "",
+    "id": "affective-acoustics-2026",
+    "title": "Affective Acoustics",
+    "type": "album",
+    "releaseDate": "2026-03-15",
+    "genre": "Electronic",
+    "songs": 8,
+    "duration": "47 min",
     "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3582.png"
   }
 ]
