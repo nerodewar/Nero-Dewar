@@ -12,7 +12,7 @@
   {
   "id": "long-live-nero-dewar-2025",
   "title": "LONG. LIVE. NERO DEWAR.",
-  "type": "Album",
+  "type": "album",
   "releaseDate": "2025-12-28",
   "genre": "Electronic / Rap",
   "songs": 8,
@@ -22,7 +22,7 @@
   {
     "id": "gravity-2.0",
     "title": "GRAVITY 2.0",
-    "type": "Single",
+    "type": "single",
     "releaseDate": "2025-11-20",
     "genre": "Electronic",
     "songs": 1,
