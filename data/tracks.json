@@ -62,5 +62,29 @@
     "title": "Deep Breaths",
     "src": "",
     "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3789.png"
+  },
+  {
+    "id": "aff-09",
+    "albumId": "affective-acoustics",
+    "trackNumber": 9,
+    "title": "Black Petunia",
+    "src": "",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3789.png"
+  },
+  {
+    "id": "aff-10",
+    "albumId": "affective-acoustics",
+    "trackNumber": 10,
+    "title": "Quiet, Still.",
+    "src": "",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3789.png"
+  },
+  {
+    "id": "aff-11",
+    "albumId": "affective-acoustics",
+    "trackNumber": 11,
+    "title": "Undone",
+    "src": "",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3789.png"
   }
 ]
