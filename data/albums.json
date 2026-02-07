@@ -1,12 +1,12 @@
 [
   {
-    "id": "affective-acoustics",
-    "title": "Affective Acoustics",
+    "id": "black-petunia",
+    "title": "Black Petunia",
     "type": "album",
     "releaseDate": "2026-03-15",
     "genre": "Electronic",
-    "songs": 8,
-    "duration": "47 min",
+    "songs": 7,
+    "duration": "21 min",
     "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3789.png"
   }
 ]
