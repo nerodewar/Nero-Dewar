@@ -18,5 +18,15 @@
     "songs": 2,
     "duration": "",
     "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3830.png"
+  },
+  {
+    "id": "legend",
+    "title": "John Legend - All of Me - Nero Dewar's Piano DnB Remix",
+    "type": "single",
+    "releaseDate": "2026-02-16",
+    "genre": "Electronic",
+    "songs": 1,
+    "duration": "",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3835.jpeg"
   }
 ]
