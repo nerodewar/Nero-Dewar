@@ -10,13 +10,13 @@
     "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3789.png"
   },
   {
-    "id": "save-the-world",
-    "title": "Save the World - Nero Dewar's 'Let's Get Ravey' Remix",
+    "id": "ravey",
+    "title": "Nero Dewar's 'Let's Get Ravey' Remixes",
     "type": "album",
     "releaseDate": "2026-02-15",
     "genre": "Electronic",
-    "songs": 1,
-    "duration": "3 min",
+    "songs": 2,
+    "duration": "",
     "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3830.png"
   }
 ]
