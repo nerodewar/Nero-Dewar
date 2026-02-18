@@ -4,8 +4,8 @@
     "albumId": "promises",
     "trackNumber": 1,
     "title": "Little Ghost",
-    "src": "",
-    "artwork": ""
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Project%2015%20Little%20Ghost%20final.wav",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3839.jpeg"
   },
   {
     "id": "aff-01",
@@ -13,7 +13,7 @@
     "trackNumber": 2,
     "title": "Promises",
     "src": "",
-    "artwork": ""
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3839.jpeg"
   },
   {
     "id": "aff-01",
@@ -21,7 +21,7 @@
     "trackNumber": 3,
     "title": "Into the Wild",
     "src": "",
-    "artwork": ""
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3839.jpeg"
   },
   {
     "id": "aff-01",
@@ -29,7 +29,7 @@
     "trackNumber": 4,
     "title": "Track 4",
     "src": "",
-    "artwork": ""
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3839.jpeg"
   },
   {
     "id": "aff-01",
@@ -37,7 +37,7 @@
     "trackNumber": 5,
     "title": "My Heart Still Skips a Beat",
     "src": "",
-    "artwork": ""
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3839.jpeg"
   },
   {
     "id": "aff-01",
@@ -45,7 +45,7 @@
     "trackNumber": 6,
     "title": "Between Two Points",
     "src": "",
-    "artwork": ""
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3839.jpeg"
   },
   {
     "id": "save-the-world",
