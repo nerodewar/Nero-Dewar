@@ -1,59 +1,51 @@
 [
   {
     "id": "aff-01",
-    "albumId": "black-petunia",
+    "albumId": "promises",
     "trackNumber": 1,
-    "title": "A proton at the center of your heart",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/My%20Song%2063%20(Proton)%20mastered%20loud.wav",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3789.png"
+    "title": "Little Ghost",
+    "src": "",
+    "artwork": ""
   },
   {
-    "id": "aff-02",
-    "albumId": "black-petunia",
+    "id": "aff-01",
+    "albumId": "promises",
     "trackNumber": 2,
-    "title": "Deep Space",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/My%20Song%2064%20(Deep%20Space)%20mastered%20loud.wav",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3789.png"
+    "title": "Promises",
+    "src": "",
+    "artwork": ""
   },
   {
-    "id": "aff-03",
-    "albumId": "black-petunia",
+    "id": "aff-01",
+    "albumId": "promises",
     "trackNumber": 3,
-    "title": "Flowering",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/My%20Song%2065%20mastered%20loud.wav",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3789.png"
+    "title": "Into the Wild",
+    "src": "",
+    "artwork": ""
   },
   {
-    "id": "aff-04",
-    "albumId": "black-petunia",
+    "id": "aff-01",
+    "albumId": "promises",
     "trackNumber": 4,
-    "title": "Follow the light",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/My%20Song%2066%20(Follow%20the%20light)%20mastered%20loud.wav",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3789.png"
+    "title": "Track 4",
+    "src": "",
+    "artwork": ""
   },
   {
-    "id": "aff-05",
-    "albumId": "black-petunia",
+    "id": "aff-01",
+    "albumId": "promises",
     "trackNumber": 5,
-    "title": "Nurture",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/My%20Song%2067%20(Nurture)%20mastered%20loud.wav",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3789.png"
+    "title": "My Heart Still Skips a Beat",
+    "src": "",
+    "artwork": ""
   },
   {
-    "id": "aff-06",
-    "albumId": "black-petunia",
+    "id": "aff-01",
+    "albumId": "promises",
     "trackNumber": 6,
-    "title": "You've Got The Love",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/My%20Song%2068%20(Untitled)%20mastered%20loud.wav",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3789.png"
-  },
-  {
-    "id": "aff-07",
-    "albumId": "black-petunia",
-    "trackNumber": 7,
-    "title": "Black Petunia",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/My%20Song%2069%20(Black%20Petunia)%20mastered%20loud.wav",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3789.png"
+    "title": "Between Two Points",
+    "src": "",
+    "artwork": ""
   },
   {
     "id": "save-the-world",
