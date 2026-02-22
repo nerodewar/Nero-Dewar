@@ -1,13 +1,13 @@
 [
   {
-    "id": "promises",
-    "title": "Promises",
+    "id": "forever",
+    "title": "FOREVER IN LOVE",
     "type": "album",
-    "releaseDate": "2026-02-28",
+    "releaseDate": "2026-02-22",
     "genre": "Electronic",
-    "songs": 6,
-    "duration": "21 min",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3839.jpeg"
+    "songs": 1,
+    "duration": "2 min 19 sec",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3855.jpeg"
   },
   {
     "id": "ravey",
