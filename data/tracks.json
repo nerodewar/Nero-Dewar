@@ -63,4 +63,60 @@
     "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/12-LANDR-12.%20Unreal%20(Chopped%20%2B%20Skrued)-Open-High.mp3",
     "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3924.png"
   }
+  {
+    "id": "best-09",
+    "albumId": "best",
+    "trackNumber": 9,
+    "title": "Blessed",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/04-LANDR-Blessed_Prelude-Balanced-Medium.mp3",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3924.png"
+  },
+  {
+    "id": "best-10",
+    "albumId": "best",
+    "trackNumber": 10,
+    "title": "After Hours/ Comes in Waves",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/LANDR-comes%20in%20waves-Open-High.mp3",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3924.png"
+  },
+  {
+    "id": "best-11",
+    "albumId": "best",
+    "trackNumber": 11,
+    "title": "Heartbeat",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/01-LANDR-Heartbeat-Balanced-Medium.mp3",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3924.png"
+  },
+  {
+    "id": "best-12",
+    "albumId": "best",
+    "trackNumber": 12,
+    "title": "Phantom of the Heart",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/05-LANDR-Phantom%20Of%20The%20Heart-Warm-High.mp3",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3924.png"
+  }
+  {
+    "id": "best-13",
+    "albumId": "best",
+    "trackNumber": 13,
+    "title": "Almighty",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/ALMIGHTY.wav",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3924.png"
+  },
+  {
+    "id": "best-14",
+    "albumId": "best",
+    "trackNumber": 14,
+    "title": "6AM in London",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/My%20Song%20329.wav",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3924.png"
+  },
+  {
+    "id": "best-15",
+    "albumId": "best",
+    "trackNumber": 15,
+    "title": "Warmer",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/warmer.mp3",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3924.png"
+  }
 ]
