@@ -1,34 +1,66 @@
 [
   {
-    "id": "forever-01",
-    "albumId": "forever",
+    "id": "best-01",
+    "albumId": "best",
     "trackNumber": 1,
-    "title": "FOREVER IN LOVE",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/LANDR-Project%2022%20(FOREVER%20IN%20LOVE)-Warm-High.mp3",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3855.jpeg"
+    "title": "Up the Aisle",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Up%20The%20Aisle%20BANDLAB%20FIMA.wav",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3924.png"
   },
   {
-    "id": "save-the-world",
-    "albumId": "ravey",
-    "trackNumber": 1,
-    "title": "Save the World - Nero Dewar's 'Let's Get Ravey' Remix",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/LANDR-Project%209%20(Save%20the%20World%20with%20Verb)-Open-High.mp3",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3830.png"
-  },
-  {
-    "id": "remember",
-    "albumId": "ravey",
+    "id": "best-02",
+    "albumId": "best",
     "trackNumber": 2,
-    "title": "I Remember - Nero Dewar's 'Let's Get Ravey' Remix",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/I%20remember%20remix%20.wav",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3830.png"
+    "title": "(Un) Real",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/01-LANDR-(un)real%20(final%20master)-Open-High.wav",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3924.png"
   },
   {
-    "id": "legend",
-    "albumId": "legend",
-    "trackNumber": 1,
-    "title": "John Legend - All of Me - Nero Dewar's Piano DnB Remix",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/All%20of%20Me%20remix.wav",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3835.jpeg"
+    "id": "best-03",
+    "albumId": "best",
+    "trackNumber": 3,
+    "title": "GOD'S NOT LISTENING!",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/LANDR-GOD%20IS%20NOT%20LISTENING-Balanced-High.mp3",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3924.png"
+  },
+  {
+    "id": "best-04",
+    "albumId": "best",
+    "trackNumber": 4,
+    "title": "Nightmare",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/02-LANDR-2.%20Nightmare-Open-High.mp3",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3924.png"
+  },
+  {
+    "id": "best-05",
+    "albumId": "best",
+    "trackNumber": 5,
+    "title": "Affective Acoustics (Chopped + Skrued)",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/10-LANDR-10.%20Affective%20Acoustics%20(Chopped%20%2B%20Skrued)-Open-High.mp3",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3924.png"
+  },
+  {
+    "id": "best-06",
+    "albumId": "best",
+    "trackNumber": 6,
+    "title": "Welcome to the UK (Lyrical Version)",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/LANDR-Welcome%20to%20the%20UK%20(Chopped%20%2B%20Skrued%20Up)-Warm-High-REV_V1.mp3",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3924.png"
+  },
+  {
+    "id": "best-07",
+    "albumId": "best",
+    "trackNumber": 7,
+    "title": "The Persistence of Memory/ 'Remember'",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Remember.mp3",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3924.png"
+  },
+  {
+    "id": "best-08",
+    "albumId": "best",
+    "trackNumber": 8,
+    "title": "Unreal (Chopped + Skrued)",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/12-LANDR-12.%20Unreal%20(Chopped%20%2B%20Skrued)-Open-High.mp3",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3924.png"
   }
 ]
