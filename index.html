@@ -6,78 +6,9 @@
 <title>NERO DEWAR</title>
 
 <style>
-:root{
-  --bg:#0B0F18;
-  --surface:#111826;
-  --text:text:#0b1a2b;
-  --muted:#6b7c93;
+/* === KEEP ALL YOUR ORIGINAL CSS === */
 
-  --accent:#00A7FF;
-  --accentHi:#5ED6FF;
-  --border:#9EDCFF;
-
-  --shadow:0 12px 30px rgba(0,80,140,.10);
-  --glow:0 0 24px rgba(0,167,255,.30);
-}
-
-*{box-sizing:border-box}
-body{
-  margin:0;
-  background:
-    radial-gradient(900px 520px at 50% -10%, rgba(0,167,255,.10), transparent 60%),
-    radial-gradient(700px 420px at 20% 0%, rgba(94,214,255,.10), transparent 60%),
-    linear-gradient(#ffffff, #ffffff);
-  color:var(--text);
-  font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;
-}
-
-body::before{
-  content:"";
-  position:fixed; inset:0;
-  pointer-events:none;
-  opacity:.20;
-  background:
-    radial-gradient(circle at 12% 18%, rgba(0,0,0,.03) 0 1px, transparent 2px),
-    radial-gradient(circle at 62% 72%, rgba(0,0,0,.025) 0 1px, transparent 2px),
-    radial-gradient(circle at 82% 28%, rgba(0,0,0,.02) 0 1px, transparent 2px),
-    radial-gradient(circle at 32% 86%, rgba(0,0,0,.02) 0 1px, transparent 2px);
-  background-size: 160px 160px, 220px 220px, 180px 180px, 260px 260px;
-  mix-blend-mode:multiply;
-}
-
-/* Header */
-header{
-  position:sticky;
-  top:0;
-  z-index:30;
-  background:rgba(255,255,255,.88);
-  backdrop-filter:blur(12px);
-  border-bottom:2px solid rgba(158,220,255,.85);
-}
-.wrap{max-width:1180px;margin:0 auto;padding:22px}
-
-.logo{
-  font-weight:1000;
-  font-size:clamp(40px,6vw,78px);
-  color:var(--accent);
-  text-transform:uppercase;
-  letter-spacing:1px;
-  text-shadow:
-    2px 0 rgba(0,120,255,.20),
-   -2px 0 rgba(94,214,255,.25),
-    0 0 24px rgba(0,167,255,.28);
-}
-
-.logo-btn{cursor:pointer}
-.about-btn{
-  cursor:pointer;
-  font-weight:900;
-  color:var(--accent);
-}
-
-/* Scenes */
-.scene{display:none}
-.scene.active{display:block}
+/* ADD THIS AT THE VERY END OF YOUR STYLE */
 
 /* ===== ABOUT PAGE ===== */
 .about-page{
@@ -86,6 +17,7 @@ header{
   justify-content:center;
   gap:40px;
   min-height:60vh;
+  padding:20px 0;
 }
 
 .about-photo{
@@ -115,7 +47,10 @@ header{
 }
 
 @media (max-width:820px){
-  .about-page{flex-direction:column;text-align:center;}
+  .about-page{
+    flex-direction:column;
+    text-align:center;
+  }
 }
 </style>
 </head>
@@ -124,70 +59,86 @@ header{
 
 <header>
   <div class="wrap" style="display:flex;align-items:flex-end;gap:20px">
-    <div id="titleHomeBtn" class="logo logo-btn">NERO DEWAR</div>
-    <div id="aboutBtn" class="about-btn">About</div>
+    <div id="titleHomeBtn" class="logo logo-btn" title="Home">NERO DEWAR</div>
+
+    <!-- ADD THIS BUTTON -->
+    <div id="aboutBtn" style="cursor:pointer;font-weight:900;color:var(--accent);">
+      About
+    </div>
   </div>
 </header>
 
 <main class="wrap">
 
-  <!-- CATALOGUE -->
-  <section id="catalogueScene" class="scene active">
-    <div id="albumGrid"></div>
-  </section>
+  <!-- KEEP YOUR ORIGINAL CATALOGUE SCENE EXACTLY AS IS -->
 
-  <!-- ALBUM -->
-  <section id="albumScene" class="scene"></section>
-
-  <!-- ABOUT -->
+  <!-- ADD THIS NEW SCENE UNDER albumScene -->
   <section id="aboutScene" class="scene">
     <div class="about-page">
-      <img class="about-photo" src="https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3898.jpeg" alt="Nero Dewar">
+
+      <!-- IMAGE PLACEHOLDER -->
+      <img class="about-photo" src="..." alt="Nero Dewar">
+
+      <!-- TEXT -->
       <div class="about-content">
         <h2>About Me</h2>
-        <p>Contact <strong>nerodewar@gmail.com</strong> for more information.</p>
+        <p>
+          Contact <strong>nerodewar@gmail.com</strong> for more information.
+        </p>
       </div>
+
     </div>
   </section>
 
 </main>
 
 <script>
-const catalogueScene = document.getElementById("catalogueScene");
-const albumScene = document.getElementById("albumScene");
-const aboutScene = document.getElementById("aboutScene");
+/* KEEP ALL YOUR ORIGINAL JS */
 
-const titleHomeBtn = document.getElementById("titleHomeBtn");
+/* === ADD THESE LINES === */
+
+const aboutScene = document.getElementById("aboutScene");
 const aboutBtn = document.getElementById("aboutBtn");
 
-function show(scene){
+/* MODIFY show() FUNCTION */
+const originalShow = show;
+show = function(scene){
   catalogueScene.classList.remove("active");
   albumScene.classList.remove("active");
   aboutScene.classList.remove("active");
   scene.classList.add("active");
-}
-
-function goHome(){
-  show(catalogueScene);
-  history.replaceState(null,"","#");
-}
-
-titleHomeBtn.onclick = goHome;
-
-aboutBtn.onclick = () => {
-  show(aboutScene);
-  history.replaceState(null,"","#about");
 };
 
+/* ABOUT BUTTON */
+aboutBtn.addEventListener("click", () => {
+  show(aboutScene);
+  history.replaceState(null, "", "#about");
+});
+
+/* EXTEND HASH ROUTING */
 window.addEventListener("hashchange", () => {
   const hash = location.hash;
 
-  if(hash === "#about"){
+  if (hash === "#about"){
     show(aboutScene);
     return;
   }
 
-  goHome();
+  const p = parseHash();
+  const rel = p.get("release");
+  const trk = p.get("track");
+
+  if (!rel){
+    goHome();
+    return;
+  }
+
+  openAlbum(rel);
+
+  if (trk){
+    const i = queue.findIndex(t => t.id === trk);
+    if (i >= 0) playFromQueue(i);
+  }
 });
 </script>
 
