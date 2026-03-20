@@ -6,20 +6,97 @@
 <title>NERO DEWAR</title>
 
 <style>
-/* === KEEP ALL YOUR ORIGINAL CSS === */
+:root{
+  --bg:#0B0F18;
+  --surface:#111826;
+  --text:text:#0b1a2b;
+  --muted:#6b7c93;
 
-/* ADD THIS AT THE VERY END OF YOUR STYLE */
+  /* CRAYON / NEON BLUE */
+  --accent:#00A7FF;
+  --accentHi:#5ED6FF;
+  --border:#9EDCFF;
 
-/* ===== ABOUT PAGE ===== */
+  --shadow:0 12px 30px rgba(0,80,140,.10);
+  --glow:0 0 24px rgba(0,167,255,.30);
+}
+
+*{box-sizing:border-box}
+body{
+  margin:0;
+  background:
+    radial-gradient(900px 520px at 50% -10%, rgba(0,167,255,.10), transparent 60%),
+    radial-gradient(700px 420px at 20% 0%, rgba(94,214,255,.10), transparent 60%),
+    linear-gradient(#ffffff, #ffffff);
+  color:var(--text);
+  font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;
+}
+
+/* Paper-ish grain (pure CSS, no external files) */
+body::before{
+  content:"";
+  position:fixed; inset:0;
+  pointer-events:none;
+  opacity:.20;
+  background:
+    radial-gradient(circle at 12% 18%, rgba(0,0,0,.03) 0 1px, transparent 2px),
+    radial-gradient(circle at 62% 72%, rgba(0,0,0,.025) 0 1px, transparent 2px),
+    radial-gradient(circle at 82% 28%, rgba(0,0,0,.02) 0 1px, transparent 2px),
+    radial-gradient(circle at 32% 86%, rgba(0,0,0,.02) 0 1px, transparent 2px);
+  background-size: 160px 160px, 220px 220px, 180px 180px, 260px 260px;
+  mix-blend-mode:multiply;
+}
+
+/* Header */
+header{
+  position:sticky;
+  top:0;
+  z-index:30;
+  background:rgba(255,255,255,.88);
+  backdrop-filter:blur(12px);
+  border-bottom:2px solid rgba(158,220,255,.85);
+}
+.wrap{max-width:1180px;margin:0 auto;padding:22px}
+
+/* Nero marker-ish title */
+.logo{
+  font-weight:1000;
+  font-size:clamp(40px,6vw,78px);
+  color:var(--accent);
+  text-transform:uppercase;
+  letter-spacing:1px;
+  text-shadow:
+    2px 0 rgba(0,120,255,.20),
+   -2px 0 rgba(94,214,255,.25),
+    0 0 24px rgba(0,167,255,.28);
+}
+
+.logo-btn{
+  cursor:pointer;
+  user-select:none;
+  display:inline-block;
+}
+.logo-btn:hover{opacity:.9}
+
+/* ADD: About button */
+.about-btn{
+  cursor:pointer;
+  font-weight:900;
+  color:var(--accent);
+}
+
+/* Scenes */
+.scene{display:none}
+.scene.active{display:block}
+
+/* ADD: ABOUT PAGE */
 .about-page{
   display:flex;
   align-items:center;
   justify-content:center;
   gap:40px;
   min-height:60vh;
-  padding:20px 0;
 }
-
 .about-photo{
   width:260px;
   height:260px;
@@ -27,80 +104,72 @@
   object-fit:cover;
   border:2px solid rgba(158,220,255,.90);
   box-shadow:0 0 28px rgba(0,167,255,.20);
-  background:#eaeaea;
 }
-
 .about-content{
   max-width:520px;
 }
-
-.about-content h2{
-  margin:0 0 10px;
-  font-size:28px;
-  font-weight:1000;
-}
-
-.about-content p{
-  margin:0;
-  font-size:16px;
-  line-height:1.6;
-}
-
 @media (max-width:820px){
-  .about-page{
-    flex-direction:column;
-    text-align:center;
-  }
+  .about-page{flex-direction:column;text-align:center;}
 }
+
+/* ===== REST OF YOUR ORIGINAL CSS UNCHANGED ===== */
 </style>
 </head>
 
 <body>
-
 <header>
   <div class="wrap" style="display:flex;align-items:flex-end;gap:20px">
     <div id="titleHomeBtn" class="logo logo-btn" title="Home">NERO DEWAR</div>
 
-    <!-- ADD THIS BUTTON -->
-    <div id="aboutBtn" style="cursor:pointer;font-weight:900;color:var(--accent);">
-      About
-    </div>
+    <!-- ADD -->
+    <div id="aboutBtn" class="about-btn">About</div>
   </div>
 </header>
 
 <main class="wrap">
+  <!-- CATALOGUE SCENE -->
+  <section id="catalogueScene" class="scene active">
+    <div id="albumGrid" class="album-grid"></div>
 
-  <!-- KEEP YOUR ORIGINAL CATALOGUE SCENE EXACTLY AS IS -->
-
-  <!-- ADD THIS NEW SCENE UNDER albumScene -->
-  <section id="aboutScene" class="scene">
-    <div class="about-page">
-
-      <!-- IMAGE PLACEHOLDER -->
-      <img class="about-photo" src="..." alt="Nero Dewar">
-
-      <!-- TEXT -->
-      <div class="about-content">
-        <h2>About Me</h2>
-        <p>
-          Contact <strong>nerodewar@gmail.com</strong> for more information.
-        </p>
-      </div>
-
+    <!-- About Me (Home only) -->
+    <div class="about-card">
+      <div class="about-label">About</div>
+      <p class="about-text">
+        <strong>Nero Dewar</strong>, also known as <strong>James Ritchie</strong>, is a record producer and vocalist from
+        <strong>South London</strong>. His enigmatic profile makes him one of the most diverse and prolific music producers
+        in the world. In <strong>2025</strong>, he released <strong>10 albums</strong> and over <strong>200 songs</strong>.
+        Visit his Spotify for more… The Best of Nero Dewar compilation is out now. It is Nero Dewar's celebration of 12 months of hard work...
+      </p>
     </div>
+
+    <footer>Copyright © 2026 James Ritchie. All rights reserved.</footer>
   </section>
 
+  <!-- ALBUM SCENE -->
+  <section id="albumScene" class="scene">
+    <!-- unchanged -->
+  </section>
+
+  <!-- ADD: ABOUT SCENE -->
+  <section id="aboutScene" class="scene">
+    <div class="about-page">
+      <img class="about-photo" src="..." alt="Nero Dewar">
+      <div class="about-content">
+        <h2>About Me</h2>
+        <p>Contact <strong>nerodewar@gmail.com</strong> for more information.</p>
+      </div>
+    </div>
+  </section>
 </main>
 
 <script>
-/* KEEP ALL YOUR ORIGINAL JS */
+/* KEEP ALL ORIGINAL JS ABOVE */
 
-/* === ADD THESE LINES === */
-
+/* ADD BELOW EXISTING CONSTANTS */
 const aboutScene = document.getElementById("aboutScene");
 const aboutBtn = document.getElementById("aboutBtn");
 
-/* MODIFY show() FUNCTION */
+/* MODIFY show() */
 const originalShow = show;
 show = function(scene){
   catalogueScene.classList.remove("active");
@@ -109,35 +178,18 @@ show = function(scene){
   scene.classList.add("active");
 };
 
-/* ABOUT BUTTON */
+/* ADD BUTTON */
 aboutBtn.addEventListener("click", () => {
   show(aboutScene);
   history.replaceState(null, "", "#about");
 });
 
-/* EXTEND HASH ROUTING */
+/* EXTEND HASH */
+const originalHash = window.onhashchange;
 window.addEventListener("hashchange", () => {
-  const hash = location.hash;
-
-  if (hash === "#about"){
+  if (location.hash === "#about"){
     show(aboutScene);
     return;
-  }
-
-  const p = parseHash();
-  const rel = p.get("release");
-  const trk = p.get("track");
-
-  if (!rel){
-    goHome();
-    return;
-  }
-
-  openAlbum(rel);
-
-  if (trk){
-    const i = queue.findIndex(t => t.id === trk);
-    if (i >= 0) playFromQueue(i);
   }
 });
 </script>
