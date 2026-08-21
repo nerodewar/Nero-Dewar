@@ -150,5 +150,86 @@
     "title": "Swedish House Mafia - Save The World (Nero Dewar's 'Let's Get Ravey' Remix)",
     "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/LANDR-Project%209%20(Save%20the%20World%20with%20Verb)-Open-High.mp3",
     "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3830.png"
+  },
+  
+  {
+    "id": "greatest-01",
+    "albumId": "greatest",
+    "trackNumber": 1,
+    "title": "MAPLEWOOD",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/BEST%20OF%20JAMES%20RITCHIE/FIMA%202%20MAPLEWOODMy%20Song%2041.wav",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_5001.png"
+  },
+  {
+    "id": "greatest-02",
+    "albumId": "greatest",
+    "trackNumber": 2,
+    "title": "LO FI HEARTS",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/BEST%20OF%20JAMES%20RITCHIE/LANDR-Lofi%201-Open-High.wav",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_5001.png"
+  },
+  {
+    "id": "greatest-03",
+    "albumId": "greatest",
+    "trackNumber": 3,
+    "title": "WHY I COULDN'T STAY FOREVER",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/BEST%20OF%20JAMES%20RITCHIE/Why%20I%20couldn%E2%80%99t%202026%20My%20Song%202.wav",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_5001.png"
+  },
+  {
+    "id": "greatest-04",
+    "albumId": "greatest",
+    "trackNumber": 4,
+    "title": "HEARTBEAT",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/BEST%20OF%20JAMES%20RITCHIE/LANDR-Heartbeat%20(Let%E2%80%99s%20make%20love%20remixxx)-Balanced-High-%5BAudioTrimmer.com%5D.wav",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_5001.png"
+  },
+  {
+    "id": "greatest-05",
+    "albumId": "greatest",
+    "trackNumber": 5,
+    "title": "AMAZING GRACE",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/BEST%20OF%20JAMES%20RITCHIE/FIMA%20AMAZING%20GRACEMy%20Song%2041.wav",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_5001.png"
+  },
+  {
+    "id": "greatest-06",
+    "albumId": "greatest",
+    "trackNumber": 6,
+    "title": "I'LL COME WITH YOU QUIETLY",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/BEST%20OF%20JAMES%20RITCHIE/Project%2051%20(DUB%20REACTOR%20FIMA).wav",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_5001.png"
+  },
+  {
+    "id": "greatest-07",
+    "albumId": "greatest",
+    "trackNumber": 7,
+    "title": "ULTRA-VIOLENCE",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/BEST%20OF%20JAMES%20RITCHIE/FIMA%203%20ULTRA-VIOLENCEMy%20Song%2040.wav",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_5001.png"
+  },
+  {
+    "id": "greatest-08",
+    "albumId": "greatest",
+    "trackNumber": 8,
+    "title": "SHOOTONG STARS",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/BEST%20OF%20JAMES%20RITCHIE/Shooting%20Stars%20remastered%20.wav",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_5001.png"
+  },
+  {
+    "id": "greatest-09",
+    "albumId": "greatest",
+    "trackNumber": 9,
+    "title": "(UN) REAL",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/01-LANDR-(un)real%20(final%20master)-Open-High.wav",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_5001.png"
+  },
+  {
+    "id": "greatest-10",
+    "albumId": "greatest",
+    "trackNumber": 10,
+    "title": "I VOW TO LOVE YOU",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/BEST%20OF%20JAMES%20RITCHIE/Project%2088%20Vow.wav",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_5001.png"
   }
 ]
