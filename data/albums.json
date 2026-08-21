@@ -1,5 +1,16 @@
 [
   {
+    "id": "greatest",
+    "title": "Best Of James Ritchie",
+    "type": "album",
+    "releaseDate": "2026-08-21",
+    "genre": "Indie folk/ Orchestral",
+    "songs": 10,
+    "duration": "30 min",
+    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_5001.png"
+  },
+  
+  {
     "id": "best",
     "title": "Best Of Nero Dewar",
     "type": "album",
