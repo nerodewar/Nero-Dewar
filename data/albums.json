@@ -7,9 +7,9 @@
     "genre": "Indie folk/ Orchestral",
     "songs": 10,
     "duration": "30 min",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_5001.png"
+    "artwork": "./IMG_5001.png"
   },
-  
+
   {
     "id": "best",
     "title": "Best Of Nero Dewar",
@@ -20,7 +20,7 @@
     "duration": "1 Hour",
     "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3956.jpeg"
   },
-  
+
   {
     "id": "save",
     "title": "Save The World (Nero Dewar's 'Let's Get Ravey' Remix)",
