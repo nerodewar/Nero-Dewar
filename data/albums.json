@@ -9,7 +9,6 @@
     "duration": "30 min",
     "artwork": "./IMG_5001.png"
   },
-
   {
     "id": "best",
     "title": "Best Of Nero Dewar",
@@ -20,7 +19,6 @@
     "duration": "1 Hour",
     "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3956.jpeg"
   },
-
   {
     "id": "save",
     "title": "Save The World (Nero Dewar's 'Let's Get Ravey' Remix)",
@@ -31,17 +29,14 @@
     "duration": "2 min",
     "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3830.png"
   },
-
-  
   {
     "id": "knytro",
     "title": "Still Standing (Feat. Nero Dewar)",
     "type": "single",
     "releaseDate": "2026-10-07",
-    "genre": "Hip-Hop/ Rap"
+    "genre": "Hip-Hop/ Rap",
     "songs": 1,
     "duration": "3 min",
     "artwork": "./IMG_5151.png"
   }
-  
 ]
