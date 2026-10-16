@@ -20,23 +20,13 @@
     "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3956.jpeg"
   },
   {
-    "id": "save",
-    "title": "Save The World (Nero Dewar's 'Let's Get Ravey' Remix)",
+    "id": "dream",
+    "title": "THIS IS ALL A DREAM (Prod. by SP:MC & Joker D)",
     "type": "single",
-    "releaseDate": "2025-11-14",
-    "genre": "Electronic",
-    "songs": 1,
-    "duration": "2 min",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3830.png"
-  },
-  {
-    "id": "knytro",
-    "title": "Still Standing (Feat. Nero Dewar)",
-    "type": "single",
-    "releaseDate": "2026-10-07",
-    "genre": "Hip-Hop/ Rap",
+    "releaseDate": "2026-10-16",
+    "genre": "Dubstep",
     "songs": 1,
     "duration": "3 min",
-    "artwork": "./IMG_5151.jpeg"
+    "artwork": "./IMG_5159.png"
   }
 ]
