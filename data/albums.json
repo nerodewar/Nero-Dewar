@@ -28,5 +28,16 @@
     "songs": 1,
     "duration": "3 min",
     "artwork": "./IMG_5159.png"
+  },
+  
+  {
+    "id": "real-bad-people",
+    "title": "REAL BAD PEOPLE",
+    "type": "Album",
+    "releaseDate": "2026-10-31",
+    "genre": "Grime",
+    "songs": 8,
+    "duration": "",
+    "artwork": "./IMG_5173.png"
   }
 ]
