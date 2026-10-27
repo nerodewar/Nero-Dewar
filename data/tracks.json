@@ -302,5 +302,13 @@
     "title": "Kendrick - DRANK (Feat. James Ritchie)",
     "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/DRANK.wav",
     "artwork": "./IMG_5159.png"
+      },
+  {
+    "id": "dream-11",
+    "albumId": "dream",
+    "trackNumber": 11,
+    "title": "Drake - 8 Out Of 10 (Feat. James Ritchie)",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/8%20out%20of%2010.wav",
+    "artwork": "./IMG_5159.png"
       }
 ]
