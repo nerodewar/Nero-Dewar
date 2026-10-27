@@ -294,13 +294,13 @@
     "title": "Joey Bada$$ - Make Me Feel (Feat. James Ritchie)",
     "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Make%20Me%20Feel.wav",
     "artwork": "./IMG_5159.png"
-  },
-    {
-    "id": "holy-01",
-    "albumId": "holy-trinity",
-    "trackNumber": 1,
-    "title": "THE HOLY TRINITY (Feat. Joey Bada$$, Meechy Darko, & Skepta)",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Holy%20Trinity.wav",
-    "artwork": "./IMG_5173.png"
-  }
+      },
+       {
+    "id": "dream-10",
+    "albumId": "dream",
+    "trackNumber": 10,
+    "title": "Kendrick - DRANK (Feat. James Ritchie)",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/DRANK.wav",
+    "artwork": "./IMG_5159.png"
+      }
 ]
