@@ -28,16 +28,5 @@
     "songs": 1,
     "duration": "3 min",
     "artwork": "./IMG_5159.png"
-  },
-  
-  {
-    "id": "holy-trinity",
-    "title": "THE HOLY TRINITY",
-    "type": "Compilation",
-    "releaseDate": "2026-10-27",
-    "genre": "Rap",
-    "songs": 1,
-    "duration": "",
-    "artwork": "./IMG_5173.png"
   }
 ]
