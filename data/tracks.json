@@ -295,19 +295,11 @@
     "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Make%20Me%20Feel.wav",
     "artwork": "./IMG_5159.png"
   },
-  {
-    "id": "bad-02",
-    "albumId": "real-bad-people",
-    "trackNumber": 2,
-    "title": "N-Type, Boylan & James Ritchie- Nightfall",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Project%20195%20nightfall.wav",
-    "artwork": "./IMG_5173.png"
-  },
     {
-    "id": "bad-01",
-    "albumId": "real-bad-people",
+    "id": "holy-01",
+    "albumId": "holy-trinity",
     "trackNumber": 1,
-    "title": "JAMES RITCHIE - REAL BAD PEOPLE",
+    "title": "THE HOLY TRINITY (Feat. Joey Bada$$, Meechy Darko, & Skepta)",
     "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/REAL%20BAD%20PEOPLE%202.wav",
     "artwork": "./IMG_5173.png"
   }
