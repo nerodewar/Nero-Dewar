@@ -31,12 +31,12 @@
   },
   
   {
-    "id": "real-bad-people",
-    "title": "REAL BAD PEOPLE",
-    "type": "Album",
-    "releaseDate": "2026-10-31",
-    "genre": "Grime",
-    "songs": 8,
+    "id": "holy-trinity",
+    "title": "THE HOLY TRINITY",
+    "type": "Compilation",
+    "releaseDate": "2026-10-27",
+    "genre": "Rap",
+    "songs": 1,
     "duration": "",
     "artwork": "./IMG_5173.png"
   }
