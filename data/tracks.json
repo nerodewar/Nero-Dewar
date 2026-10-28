@@ -223,92 +223,12 @@
     "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/BEST%20OF%20JAMES%20RITCHIE/Project%2088%20Vow.wav",
     "artwork": "./IMG_5001.png"
   },
-  {
-    "id": "dream-01",
-    "albumId": "dream",
+    {
+    "id": "love-01",
+    "albumId": "love",
     "trackNumber": 1,
-    "title": "Bring Me The Horizon - Teardrops (Feat. James Ritchie)",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Project%20194%20bmth.wav",
-    "artwork": "./IMG_5159.png"
-  },
-  {
-    "id": "dream-02",
-    "albumId": "dream",
-    "trackNumber": 2,
-    "title": "Dua Lipa - IDGAF (Feat. James Ritchie)",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Project%20195%20Dua.wav",
-    "artwork": "./IMG_5159.png"
-  },
-  {
-    "id": "dream-03",
-    "albumId": "dream",
-    "trackNumber": 3,
-    "title": "Ellie Goulding - UNDER THE SHEETS (Jakwob Remix Feat. James Ritchie)",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Project%20191%20UNDER%20THE%20SHEETS%20JAKWOB%20JR%20.wav",
-    "artwork": "./IMG_5159.png"
-  },
-    {
-    "id": "dream-04",
-    "albumId": "dream",
-    "trackNumber": 4,
-    "title": "Linkin Park - Faint (Feat. James Ritchie)",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/faint%20(feat.%20James%20Ritchie).wav",
-    "artwork": "./IMG_5159.png"
-  },
-  {
-    "id": "dream-05",
-    "albumId": "dream",
-    "trackNumber": 5,
-    "title": "Eminem - Lose Yourself (Sacrilege Edition Feat. James Ritchie)",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/LOSE%20YOURSELF%20(Feat.%20James%20Ritchie).wav",
-    "artwork": "./IMG_5159.png"
-  },
-    {
-    "id": "dream-06",
-    "albumId": "dream",
-    "trackNumber": 6,
-    "title": "Future - Bloodlust (Feat. James Ritchie)",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Future%20-%20Blood%20Lust%20(feat.%20James%20Ritchie).wav",
-    "artwork": "./IMG_5159.png"
-  },
-     {
-    "id": "dream-07",
-    "albumId": "dream",
-    "trackNumber": 7,
-    "title": "Meechy Darko - LAVÏ$H HABiTS (Feat. James Ritchie)",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/LAVISH%20HABITS.wav",
-    "artwork": "./IMG_5159.png"
-  },
-       {
-    "id": "dream-08",
-    "albumId": "dream",
-    "trackNumber": 8,
-    "title": "Skepta - Lyrics (Feat. James Ritchie)",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/LYRICS.wav",
-    "artwork": "./IMG_5159.png"
-  },
-      {
-    "id": "dream-09",
-    "albumId": "dream",
-    "trackNumber": 9,
-    "title": "Joey Bada$$ - Make Me Feel (Feat. James Ritchie)",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Make%20Me%20Feel.wav",
-    "artwork": "./IMG_5159.png"
-      },
-       {
-    "id": "dream-10",
-    "albumId": "dream",
-    "trackNumber": 10,
-    "title": "Kendrick - DRANK (Feat. James Ritchie)",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/DRANK.wav",
-    "artwork": "./IMG_5159.png"
-      },
-  {
-    "id": "dream-11",
-    "albumId": "dream",
-    "trackNumber": 11,
-    "title": "Drake - 8 Out Of 10 (Feat. James Ritchie)",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/8%20out%20of%2010.wav",
-    "artwork": "./IMG_5159.png"
+    "title": "James Ritchie - Let The Words Play...",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Love.wav",
+    "artwork": "./Golden Hour Journaling Nook.png"
       }
 ]
