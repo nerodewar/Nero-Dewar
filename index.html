@@ -9,7 +9,7 @@
 :root{
   --bg:#0B0F18;
   --surface:#111826;
-  --text:text:#0b1a2b;
+  --text:#0b1a2b;
   --muted:#6b7c93;
 
   /* CRAYON / NEON BLUE */
@@ -112,6 +112,76 @@ header{
   padding:12px;
   font-weight:900;
   font-size:14px;
+}
+
+/* FEED NEPAL FOUNDATION / homepage feature */
+.foundation-feature{
+  margin-top:28px;
+}
+.foundation-label{
+  color:var(--muted);
+  font-size:13px;
+  text-transform:uppercase;
+  letter-spacing:.9px;
+  margin:0 0 10px;
+  font-weight:800;
+}
+.foundation-card{
+  display:flex;
+  align-items:center;
+  gap:22px;
+  padding:18px 22px;
+  background:#fbfaf5;
+  border:2px solid #c4d3bd;
+  border-radius:18px;
+  box-shadow:0 12px 30px rgba(43,78,45,.09);
+  text-decoration:none;
+  color:#254b2d;
+  transition:transform .16s ease, box-shadow .16s ease, border-color .16s ease;
+}
+.foundation-card:hover,
+.foundation-card:focus-visible{
+  transform:translateY(-2px);
+  border-color:#64855a;
+  box-shadow:0 14px 32px rgba(43,78,45,.16);
+}
+.foundation-card:focus-visible{outline:3px solid #64855a;outline-offset:3px}
+.foundation-card-logo{
+  width:124px;
+  height:104px;
+  object-fit:contain;
+  flex:0 0 auto;
+  mix-blend-mode:multiply;
+}
+.foundation-card-content{flex:1;min-width:0}
+.foundation-card-kicker{
+  color:#587454;
+  font-size:11px;
+  font-weight:900;
+  letter-spacing:1.5px;
+  text-transform:uppercase;
+}
+.foundation-card-title{
+  display:block;
+  margin:5px 0;
+  font-family:Georgia, 'Times New Roman', serif;
+  font-weight:700;
+  font-size:clamp(20px,2.5vw,28px);
+  line-height:1.15;
+}
+.foundation-card-sub{
+  display:block;
+  font-size:14px;
+  line-height:1.5;
+  color:#526957;
+}
+.foundation-card-cta{
+  display:inline-block;
+  margin-top:11px;
+  font-weight:900;
+  font-size:13px;
+  color:#286435;
+  border-bottom:1px solid currentColor;
 }
 
 /* Album scene header */
@@ -401,6 +471,11 @@ footer{
   .pbtn.primary{width:78px;height:78px;border-radius:26px}
   .icon{width:26px;height:26px}
 }
+@media (max-width: 580px){
+  .foundation-card{align-items:flex-start;gap:12px;padding:14px}
+  .foundation-card-logo{width:88px;height:82px}
+  .foundation-card-sub{font-size:13px}
+}
 </style>
 </head>
 
@@ -416,6 +491,20 @@ footer{
   <!-- CATALOGUE SCENE -->
   <section id="catalogueScene" class="scene active">
     <div id="albumGrid" class="album-grid"></div>
+
+    <!-- NEW: Feed Nepal feature on the music site's home page -->
+    <section class="foundation-feature" aria-labelledby="foundationFeatureHeading">
+      <h2 id="foundationFeatureHeading" class="foundation-label">A Personal Humanitarian Vision</h2>
+      <a class="foundation-card" href="feed-nepal.html" aria-label="Explore the Feed Nepal Foundation personal vision">
+        <img class="foundation-card-logo" src="feed-nepal-logo.png" alt="Feed Nepal Foundation logo" loading="lazy">
+        <span class="foundation-card-content">
+          <span class="foundation-card-kicker">Kathmandu, Nepal · Concept</span>
+          <span class="foundation-card-title">Feed Nepal Foundation</span>
+          <span class="foundation-card-sub">A vision for nourishing mothers, nurturing children and strengthening families.</span>
+          <span class="foundation-card-cta">Discover the vision ↗</span>
+        </span>
+      </a>
+    </section>
 
     <!-- About Me (Home only) -->
     <div class="about-card">
