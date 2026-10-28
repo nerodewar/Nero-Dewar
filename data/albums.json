@@ -20,13 +20,13 @@
     "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3956.jpeg"
   },
   {
-    "id": "dream",
-    "title": "LET'S GET RAVIER! Featuring Bring Me The Horizon",
-    "type": "single",
-    "releaseDate": "2026-10-16",
+    "id": "love",
+    "title": "Songs To My Lover",
+    "type": "Album",
+    "releaseDate": "2026-10-28",
     "genre": "",
-    "songs": 1,
-    "duration": "3 min",
-    "artwork": "./IMG_5159.png"
+    "songs": 18,
+    "duration": "",
+    "artwork": "./Golden Hour Journaling Nook.png"
   }
 ]
