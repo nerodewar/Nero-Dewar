@@ -223,14 +223,14 @@
     "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/BEST%20OF%20JAMES%20RITCHIE/Project%2088%20Vow.wav",
     "artwork": "./IMG_5001.png"
   },
-    {
+  {
     "id": "bmth-01",
     "albumId": "bmth",
     "trackNumber": 1,
     "title": "Bring Me The Horizon - Teardrops (With James Ritchie)",
     "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Project%20194%20bmth.wav",
     "artwork": "./67a0040b6e55d57ec8db7db733172a20.jpg"
-      },
+  },
   {
     "id": "slip-01",
     "albumId": "slip",
@@ -238,5 +238,5 @@
     "title": "Slipknot - Spit It Out (With James Ritchie)",
     "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Spit%20It%20Out.wav",
     "artwork": "./wp2862657.jpg"
-      }
+  }
 ]
