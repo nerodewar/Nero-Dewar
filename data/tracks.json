@@ -224,11 +224,11 @@
     "artwork": "./IMG_5001.png"
   },
     {
-    "id": "love-01",
-    "albumId": "love",
+    "id": "bmth-01",
+    "albumId": "bmth",
     "trackNumber": 1,
-    "title": "James Ritchie - Let The Words Play...",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Love.wav",
-    "artwork": "./Golden Hour Journaling Nook.png"
+    "title": "Bring Me The Horizon - Teardrops (With James Ritchie)",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Project%20194%20bmth.wav",
+    "artwork": "./67a0040b6e55d57ec8db7db733172a20.jpgg"
       }
 ]
