@@ -20,13 +20,13 @@
     "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3956.jpeg"
   },
   {
-    "id": "love",
-    "title": "Songs To My Lover",
-    "type": "Album",
-    "releaseDate": "2026-10-28",
-    "genre": "",
-    "songs": 18,
+    "id": "bmth",
+    "title": "Bring Me The Horizon - Teardrops (With James Ritchie)",
+    "type": "Single",
+    "releaseDate": "2026-11-04",
+    "genre": "Metal",
+    "songs": 1,
     "duration": "",
-    "artwork": "./Golden Hour Journaling Nook.png"
+    "artwork": "./67a0040b6e55d57ec8db7db733172a20.jpg"
   }
 ]
