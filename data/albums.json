@@ -28,5 +28,15 @@
     "songs": 1,
     "duration": "",
     "artwork": "./67a0040b6e55d57ec8db7db733172a20.jpg"
+  },
+  {
+    "id": "slip",
+    "title": "Slipknot - Spit It Out (With James Ritchie)",
+    "type": "Single",
+    "releaseDate": "2026-11-04",
+    "genre": "Nu-Metal",
+    "songs": 1,
+    "duration": "",
+    "artwork": "./wp2862657.jpg"
   }
 ]
