@@ -232,11 +232,83 @@
     "artwork": "./67a0040b6e55d57ec8db7db733172a20.jpg"
   },
   {
-    "id": "slip-01",
-    "albumId": "slip",
+    "id": "thuru-01",
+    "albumId": "thuru",
     "trackNumber": 1,
-    "title": "Slipknot - Spit It Out (With James Ritchie)",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Spit%20It%20Out.wav",
-    "artwork": "./wp2862657.jpg"
+    "title": "Track 1",
+    "src": "",
+    "artwork": "./Gritty Monochrome Album Cover.png"
+  },
+    {
+    "id": "thuru-02",
+    "albumId": "thuru",
+    "trackNumber": 2,
+    "title": "Track 2",
+    "src": "",
+    "artwork": "./Gritty Monochrome Album Cover.png"
+  },
+  {
+    "id": "thuru-03",
+    "albumId": "thuru",
+    "trackNumber": 3,
+    "title": "Proud Of You",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Thuru%20Bred%201.wav",
+    "artwork": "./Gritty Monochrome Album Cover.png"
+  },
+  {
+    "id": "thuru-04",
+    "albumId": "thuru",
+    "trackNumber": 4,
+    "title": "Track 4",
+    "src": "",
+    "artwork": "./Gritty Monochrome Album Cover.png"
+  },
+  {
+    "id": "thuru-05",
+    "albumId": "thuru",
+    "trackNumber": 5,
+    "title": "Track 5",
+    "src": "",
+    "artwork": "./Gritty Monochrome Album Cover.png"
+  },
+  {
+    "id": "thuru-06",
+    "albumId": "thuru",
+    "trackNumber": 6,
+    "title": "Track 6",
+    "src": "",
+    "artwork": "./Gritty Monochrome Album Cover.png"
+  },
+  {
+    "id": "thuru-07",
+    "albumId": "thuru",
+    "trackNumber": 7,
+    "title": "Track 7",
+    "src": "",
+    "artwork": "./Gritty Monochrome Album Cover.png"
+  },
+  {
+    "id": "thuru-08",
+    "albumId": "thuru",
+    "trackNumber": 8,
+    "title": "Track 8",
+    "src": "",
+    "artwork": "./Gritty Monochrome Album Cover.png"
+  },
+  {
+    "id": "thuru-09",
+    "albumId": "thuru",
+    "trackNumber": 9,
+    "title": "Track 9",
+    "src": "",
+    "artwork": "./Gritty Monochrome Album Cover.png"
+  },
+  {
+    "id": "thuru-10",
+    "albumId": "thuru",
+    "trackNumber": 10,
+    "title": "Track 10",
+    "src": "",
+    "artwork": "./Gritty Monochrome Album Cover.png"
   }
 ]
