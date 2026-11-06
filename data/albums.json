@@ -1,5 +1,15 @@
 [
   {
+    "id": "thuru",
+    "title": "Thuru-Bred",
+    "type": "Album",
+    "releaseDate": "2026-11-04",
+    "genre": "Rap/ Hip-hop",
+    "songs": 12,
+    "duration": "",
+    "artwork": "./Gritty Monochrome Album Cover.png"
+  },
+  {
     "id": "greatest",
     "title": "Best Of James Ritchie",
     "type": "album",
