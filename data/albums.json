@@ -10,16 +10,6 @@
     "artwork": "./Gritty Monochrome Album Cover.png"
   },
   {
-    "id": "greatest",
-    "title": "Best Of James Ritchie",
-    "type": "album",
-    "releaseDate": "2026-08-21",
-    "genre": "Indie folk/ Orchestral",
-    "songs": 10,
-    "duration": "30 min",
-    "artwork": "./IMG_5001.png"
-  },
-  {
     "id": "best",
     "title": "Best Of Nero Dewar",
     "type": "album",
@@ -38,15 +28,5 @@
     "songs": 1,
     "duration": "",
     "artwork": "./67a0040b6e55d57ec8db7db733172a20.jpg"
-  },
-  {
-    "id": "slip",
-    "title": "Slipknot - Spit It Out (With James Ritchie)",
-    "type": "Single",
-    "releaseDate": "2026-11-04",
-    "genre": "Nu-Metal",
-    "songs": 1,
-    "duration": "",
-    "artwork": "./wp2862657.jpg"
   }
 ]
