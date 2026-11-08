@@ -235,8 +235,8 @@
     "id": "thuru-01",
     "albumId": "thuru",
     "trackNumber": 1,
-    "title": "STFU",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Thuru%20Bred%203.wav",
+    "title": "STFU (Album Version)",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Thuru%20Bred%203%20Extended%20Mix.wav",
     "artwork": "./Gritty Monochrome Album Cover.png"
   },
     {
@@ -251,8 +251,8 @@
     "id": "thuru-03",
     "albumId": "thuru",
     "trackNumber": 3,
-    "title": "Proud Of You",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Thuru%20Bred%201.wav",
+    "title": "Track 3",
+    "src": "",
     "artwork": "./Gritty Monochrome Album Cover.png"
   },
   {
@@ -275,16 +275,16 @@
     "id": "thuru-06",
     "albumId": "thuru",
     "trackNumber": 6,
-    "title": "Ain't No Fair Fight",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Thuru%20Bred%202.wav",
+    "title": "Track 6",
+    "src": "",
     "artwork": "./Gritty Monochrome Album Cover.png"
   },
   {
     "id": "thuru-07",
     "albumId": "thuru",
     "trackNumber": 7,
-    "title": "STFU (Extended Mix)",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Thuru%20Bred%203%20Extended%20Mix.wav",
+    "title": "Track 7",
+    "src": "",
     "artwork": "./Gritty Monochrome Album Cover.png"
   },
   {
@@ -292,22 +292,6 @@
     "albumId": "thuru",
     "trackNumber": 8,
     "title": "Track 8",
-    "src": "",
-    "artwork": "./Gritty Monochrome Album Cover.png"
-  },
-  {
-    "id": "thuru-09",
-    "albumId": "thuru",
-    "trackNumber": 9,
-    "title": "Track 9",
-    "src": "",
-    "artwork": "./Gritty Monochrome Album Cover.png"
-  },
-  {
-    "id": "thuru-10",
-    "albumId": "thuru",
-    "trackNumber": 10,
-    "title": "Track 10",
     "src": "",
     "artwork": "./Gritty Monochrome Album Cover.png"
   }
