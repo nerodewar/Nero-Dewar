@@ -237,7 +237,7 @@
     "trackNumber": 1,
     "title": "STFU (Album Version)",
     "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Thuru%20Bred%203%20Extended%20Mix.wav",
-    "artwork": "./Gritty Monochrome Album Cover.png"
+    "artwork": "./S (2).jpg"
   },
     {
     "id": "thuru-02",
@@ -245,7 +245,7 @@
     "trackNumber": 2,
     "title": "Track 2",
     "src": "",
-    "artwork": "./Gritty Monochrome Album Cover.png"
+    "artwork": "./S (2).jpg"
   },
   {
     "id": "thuru-03",
@@ -253,7 +253,7 @@
     "trackNumber": 3,
     "title": "Track 3",
     "src": "",
-    "artwork": "./Gritty Monochrome Album Cover.png"
+    "artwork": "./S (2).jpg"
   },
   {
     "id": "thuru-04",
@@ -261,7 +261,7 @@
     "trackNumber": 4,
     "title": "Track 4",
     "src": "",
-    "artwork": "./Gritty Monochrome Album Cover.png"
+    "artwork": "./S (2).jpg"
   },
   {
     "id": "thuru-05",
@@ -269,7 +269,7 @@
     "trackNumber": 5,
     "title": "Track 5",
     "src": "",
-    "artwork": "./Gritty Monochrome Album Cover.png"
+    "artwork": "./S (2).jpg"
   },
   {
     "id": "thuru-06",
@@ -277,7 +277,7 @@
     "trackNumber": 6,
     "title": "Track 6",
     "src": "",
-    "artwork": "./Gritty Monochrome Album Cover.png"
+    "artwork": "./S (2).jpg"
   },
   {
     "id": "thuru-07",
@@ -285,7 +285,7 @@
     "trackNumber": 7,
     "title": "Track 7",
     "src": "",
-    "artwork": "./Gritty Monochrome Album Cover.png"
+    "artwork": "./S (2).jpg"
   },
   {
     "id": "thuru-08",
@@ -293,6 +293,6 @@
     "trackNumber": 8,
     "title": "Track 8",
     "src": "",
-    "artwork": "./Gritty Monochrome Album Cover.png"
+    "artwork": "./S (2).jpg"
   }
 ]
