@@ -235,7 +235,7 @@
     "id": "thuru-01",
     "albumId": "thuru",
     "trackNumber": 1,
-    "title": "STFU (Album Version)",
+    "title": "STFU",
     "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Thuru%20Bred%203%20Extended%20Mix.wav",
     "artwork": "./2.png"
   },
@@ -243,7 +243,7 @@
     "id": "thuru-02",
     "albumId": "thuru",
     "trackNumber": 2,
-    "title": "Track 2",
+    "title": "All Hail The King",
     "src": "",
     "artwork": "./2.png"
   },
@@ -251,7 +251,7 @@
     "id": "thuru-03",
     "albumId": "thuru",
     "trackNumber": 3,
-    "title": "Track 3",
+    "title": "The Fifth Dimension",
     "src": "",
     "artwork": "./2.png"
   },
@@ -259,7 +259,7 @@
     "id": "thuru-04",
     "albumId": "thuru",
     "trackNumber": 4,
-    "title": "Track 4",
+    "title": "Super-eternal",
     "src": "",
     "artwork": "./2.png"
   },
@@ -267,7 +267,7 @@
     "id": "thuru-05",
     "albumId": "thuru",
     "trackNumber": 5,
-    "title": "Track 5",
+    "title": "Daylight",
     "src": "",
     "artwork": "./2.png"
   },
@@ -275,7 +275,7 @@
     "id": "thuru-06",
     "albumId": "thuru",
     "trackNumber": 6,
-    "title": "Track 6",
+    "title": "Forever",
     "src": "",
     "artwork": "./2.png"
   },
@@ -283,7 +283,7 @@
     "id": "thuru-07",
     "albumId": "thuru",
     "trackNumber": 7,
-    "title": "Track 7",
+    "title": "Strange & Beautiful",
     "src": "",
     "artwork": "./2.png"
   },
@@ -291,7 +291,23 @@
     "id": "thuru-08",
     "albumId": "thuru",
     "trackNumber": 8,
-    "title": "Track 8",
+    "title": "Nocturnal",
+    "src": "",
+    "artwork": "./2.png"
+  },
+   {
+    "id": "thuru-09",
+    "albumId": "thuru",
+    "trackNumber": 9,
+    "title": "The End Of An Evening With My True Love",
+    "src": "",
+    "artwork": "./2.png"
+  },
+  {
+    "id": "thuru-10",
+    "albumId": "thuru",
+    "trackNumber": 10,
+    "title": "Thurubred",
     "src": "",
     "artwork": "./2.png"
   }
