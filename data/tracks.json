@@ -235,7 +235,7 @@
     "id": "thuru-01",
     "albumId": "thuru",
     "trackNumber": 1,
-    "title": "STFU!",
+    "title": "STFU",
     "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Thuru%20Bred%203.wav",
     "artwork": "./Gritty Monochrome Album Cover.png"
   },
@@ -283,8 +283,8 @@
     "id": "thuru-07",
     "albumId": "thuru",
     "trackNumber": 7,
-    "title": "Track 7",
-    "src": "",
+    "title": "STFU (Extended Mix)",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Thuru%20Bred%203%20Extended%20Mix%20(1).wav",
     "artwork": "./Gritty Monochrome Album Cover.png"
   },
   {
