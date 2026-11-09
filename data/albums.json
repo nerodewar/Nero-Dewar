@@ -8,25 +8,5 @@
     "songs": 12,
     "duration": "",
     "artwork": "./James Ritchie THURUBRED.png"
-  },
-  {
-    "id": "best",
-    "title": "Best Of Nero Dewar",
-    "type": "album",
-    "releaseDate": "2026-03-16",
-    "genre": "Electronic",
-    "songs": 15,
-    "duration": "1 Hour",
-    "artwork": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/IMG_3956.jpeg"
-  },
-  {
-    "id": "bmth",
-    "title": "Bring Me The Horizon - Teardrops (With James Ritchie)",
-    "type": "Single",
-    "releaseDate": "2026-11-04",
-    "genre": "Metal",
-    "songs": 1,
-    "duration": "",
-    "artwork": "./67a0040b6e55d57ec8db7db733172a20.jpg"
   }
 ]
