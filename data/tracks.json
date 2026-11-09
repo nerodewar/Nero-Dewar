@@ -236,8 +236,8 @@
     "albumId": "thuru",
     "trackNumber": 1,
     "title": "All Hail The King",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/All%20Hail%20The%20King.wav",
-    "artwork": "./2.png"
+    "src": "",
+    "artwork": "./James Ritchie THURUBRED.png"
   },
   {
     "id": "thuru-02",
@@ -245,7 +245,7 @@
     "trackNumber": 2,
     "title": "The Fifth Dimension",
     "src": "",
-    "artwork": "./2.png"
+    "artwork": "./James Ritchie THURUBRED.png"
   },
   {
     "id": "thuru-03",
@@ -253,7 +253,7 @@
     "trackNumber": 3,
     "title": "Super-eternal",
     "src": "",
-    "artwork": "./2.png"
+    "artwork": "./James Ritchie THURUBRED.png"
   },
   {
     "id": "thuru-04",
@@ -261,7 +261,7 @@
     "trackNumber": 4,
     "title": "Daylight",
     "src": "",
-    "artwork": "./2.png"
+    "artwork": "./James Ritchie THURUBRED.png"
   },
   {
     "id": "thuru-05",
@@ -269,7 +269,7 @@
     "trackNumber": 5,
     "title": "Forever",
     "src": "",
-    "artwork": "./2.png"
+    "artwork": "./James Ritchie THURUBRED.png"
   },
   {
     "id": "thuru-06",
@@ -277,7 +277,7 @@
     "trackNumber": 6,
     "title": "Strange & Beautiful",
     "src": "",
-    "artwork": "./2.png"
+    "artwork": "./James Ritchie THURUBRED.png"
   },
   {
     "id": "thuru-07",
@@ -285,7 +285,7 @@
     "trackNumber": 7,
     "title": "Nocturnal",
     "src": "",
-    "artwork": "./2.png"
+    "artwork": "./James Ritchie THURUBRED.png"
   },
   {
     "id": "thuru-08",
@@ -293,6 +293,6 @@
     "trackNumber": 8,
     "title": "Thurubred",
     "src": "",
-    "artwork": "./2.png"
+    "artwork": "./James Ritchie THURUBRED.png"
   }
 ]
