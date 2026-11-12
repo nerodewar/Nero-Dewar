@@ -272,17 +272,9 @@
     "artwork": "./James Ritchie THURUBRED.png"
   },
   {
-    "id": "thuru-07",
-    "albumId": "thuru",
-    "trackNumber": 6,
-    "title": "Nocturnal",
-    "src": "",
-    "artwork": "./James Ritchie THURUBRED.png"
-  },
-  {
     "id": "thuru-08",
     "albumId": "thuru",
-    "trackNumber": 7,
+    "trackNumber": 6,
     "title": "STFU (The Extended Mix)",
     "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/THURUBRED/stfu%20extended%20mix.wav",
     "artwork": "./James Ritchie THURUBRED.png"
@@ -290,7 +282,7 @@
   {
     "id": "thuru-08",
     "albumId": "thuru",
-    "trackNumber": 8,
+    "trackNumber": 7,
     "title": "Thurubred",
     "src": "",
     "artwork": "./James Ritchie THURUBRED.png"
