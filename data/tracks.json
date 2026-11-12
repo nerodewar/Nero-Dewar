@@ -263,20 +263,20 @@
     "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/THURUBRED/DAYLIGHT%20FIMA%20II.wav",
     "artwork": "./James Ritchie THURUBRED.png"
   },
-  {
+    {
     "id": "thuru-05",
     "albumId": "thuru",
     "trackNumber": 5,
-    "title": "Hail Mary",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/THURUBRED/FOREVER.wav",
+    "title": "STFU (The Extended Mix)",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/THURUBRED/stfu%20extended%20mix.wav",
     "artwork": "./James Ritchie THURUBRED.png"
   },
   {
-    "id": "thuru-08",
+    "id": "thuru-06",
     "albumId": "thuru",
     "trackNumber": 6,
-    "title": "STFU (The Extended Mix)",
-    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/THURUBRED/stfu%20extended%20mix.wav",
+    "title": "Hail Mary",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/THURUBRED/FOREVER.wav",
     "artwork": "./James Ritchie THURUBRED.png"
   },
   {
