@@ -236,7 +236,7 @@
     "albumId": "thuru",
     "trackNumber": 1,
     "title": "All Hail The King",
-    "src": "",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/THURUBRED/All%20Hail%20The%20King%20(2)%20(2).wav",
     "artwork": "./James Ritchie THURUBRED.png"
   },
   {
@@ -244,15 +244,15 @@
     "albumId": "thuru",
     "trackNumber": 2,
     "title": "The Fifth Dimension",
-    "src": "",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/THURUBRED/The%20Fifth%20Dimension%20IV%20(1)%20(1).wav",
     "artwork": "./James Ritchie THURUBRED.png"
   },
   {
     "id": "thuru-03",
     "albumId": "thuru",
     "trackNumber": 3,
-    "title": "Super-eternal",
-    "src": "",
+    "title": "Super Eternal",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/THURUBRED/SUPER%20ETERNAL%20III%20(1)%20(1).wav",
     "artwork": "./James Ritchie THURUBRED.png"
   },
   {
@@ -285,6 +285,14 @@
     "trackNumber": 7,
     "title": "Nocturnal",
     "src": "",
+    "artwork": "./James Ritchie THURUBRED.png"
+  },
+  {
+    "id": "thuru-08",
+    "albumId": "thuru",
+    "trackNumber": 8,
+    "title": "STFU (The Extended Mix)",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/THURUBRED/stfu%20extended%20mix.wav",
     "artwork": "./James Ritchie THURUBRED.png"
   },
   {
