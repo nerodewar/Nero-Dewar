@@ -381,5 +381,53 @@
   "title": "The Recovery Of Something So Precious To Me It Breaks Your Heart",
   "src": "",
   "artwork": "./IMG_5187.png"
+},
+  {
+  "id": "recovery-13",
+  "albumId": "recovery",
+  "trackNumber": 13,
+  "title": "No More Idols",
+  "src": "",
+  "artwork": "./IMG_5187.png"
+},
+{
+  "id": "recovery-14",
+  "albumId": "recovery",
+  "trackNumber": 14,
+  "title": "Rise ‘27",
+  "src": "",
+  "artwork": "./IMG_5187.png"
+},
+{
+  "id": "recovery-15",
+  "albumId": "recovery",
+  "trackNumber": 15,
+  "title": "Can’t Stop Us",
+  "src": "",
+  "artwork": "./IMG_5187.png"
+},
+{
+  "id": "recovery-16",
+  "albumId": "recovery",
+  "trackNumber": 16,
+  "title": "Ain’t No Fair Fight",
+  "src": "",
+  "artwork": "./IMG_5187.png"
+},
+{
+  "id": "recovery-17",
+  "albumId": "recovery",
+  "trackNumber": 17,
+  "title": "Black Hearts",
+  "src": "",
+  "artwork": "./IMG_5187.png"
+},
+{
+  "id": "recovery-18",
+  "albumId": "recovery",
+  "trackNumber": 18,
+  "title": "Finale",
+  "src": "",
+  "artwork": "./IMG_5187.png"
 }
 ]
