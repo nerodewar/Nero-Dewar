@@ -8,5 +8,15 @@
     "songs": 12,
     "duration": "",
     "artwork": "./James Ritchie THURUBRED.png"
+  },
+  {
+    "id": "recovery",
+    "title": "The Recovery Of Something So Precious To Me It Breaks Your Heart...",
+    "type": "Album",
+    "releaseDate": "2027-01-08",
+    "genre": "Rap/ Hip-hop",
+    "songs": 16,
+    "duration": "",
+    "artwork": "./IMG_5187.png"
   }
 ]
