@@ -286,5 +286,100 @@
     "title": "Thurubred",
     "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/THURUBRED/THURUBRED.wav",
     "artwork": "./James Ritchie THURUBRED.png"
-  }
+  },{
+  "id": "recovery-01",
+  "albumId": "recovery",
+  "trackNumber": 1,
+  "title": "Signs",
+  "src": "",
+  "artwork": "./IMG_5187.png"
+},
+{
+  "id": "recovery-02",
+  "albumId": "recovery",
+  "trackNumber": 2,
+  "title": "Expecting",
+  "src": "",
+  "artwork": "./IMG_5187.png"
+},
+{
+  "id": "recovery-03",
+  "albumId": "recovery",
+  "trackNumber": 3,
+  "title": "Hollow",
+  "src": "",
+  "artwork": "./IMG_5187.png"
+},
+{
+  "id": "recovery-04",
+  "albumId": "recovery",
+  "trackNumber": 4,
+  "title": "Sirens",
+  "src": "",
+  "artwork": "./IMG_5187.png"
+},
+{
+  "id": "recovery-05",
+  "albumId": "recovery",
+  "trackNumber": 5,
+  "title": "Recovery",
+  "src": "",
+  "artwork": "./IMG_5187.png"
+},
+{
+  "id": "recovery-06",
+  "albumId": "recovery",
+  "trackNumber": 6,
+  "title": "Jamie",
+  "src": "",
+  "artwork": "./IMG_5187.png"
+},
+{
+  "id": "recovery-07",
+  "albumId": "recovery",
+  "trackNumber": 7,
+  "title": "Hospital Records",
+  "src": "",
+  "artwork": "./IMG_5187.png"
+},
+{
+  "id": "recovery-08",
+  "albumId": "recovery",
+  "trackNumber": 8,
+  "title": "35 Years",
+  "src": "",
+  "artwork": "./IMG_5187.png"
+},
+{
+  "id": "recovery-09",
+  "albumId": "recovery",
+  "trackNumber": 9,
+  "title": "Half A Century",
+  "src": "",
+  "artwork": "./IMG_5187.png"
+},
+{
+  "id": "recovery-10",
+  "albumId": "recovery",
+  "trackNumber": 10,
+  "title": "And When We’re Done…",
+  "src": "",
+  "artwork": "./IMG_5187.png"
+},
+{
+  "id": "recovery-11",
+  "albumId": "recovery",
+  "trackNumber": 11,
+  "title": "Everything To Live For",
+  "src": "",
+  "artwork": "./IMG_5187.png"
+},
+{
+  "id": "recovery-12",
+  "albumId": "recovery",
+  "trackNumber": 12,
+  "title": "The Recovery Of Something So Precious To Me It Breaks Your Heart",
+  "src": "",
+  "artwork": "./IMG_5187.png"
+}
 ]
