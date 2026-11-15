@@ -286,19 +286,20 @@
     "title": "Thurubred",
     "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/THURUBRED/THURUBRED.wav",
     "artwork": "./James Ritchie THURUBRED.png"
-  },{
+  },
+{
   "id": "recovery-01",
   "albumId": "recovery",
   "trackNumber": 1,
-  "title": "Signs",
-  "src": "",
+  "title": "Recovery",
+  "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Recovery/Recovery%20FIMA%20(Mastered%20with%20Aurora%20at%2047pct)%20(1).wav",
   "artwork": "./IMG_5187.png"
 },
-{
+  {
   "id": "recovery-02",
   "albumId": "recovery",
   "trackNumber": 2,
-  "title": "Expecting",
+  "title": "Ghost Of You",
   "src": "",
   "artwork": "./IMG_5187.png"
 },
@@ -306,7 +307,7 @@
   "id": "recovery-03",
   "albumId": "recovery",
   "trackNumber": 3,
-  "title": "47 Ghosts",
+  "title": "Warmth",
   "src": "",
   "artwork": "./IMG_5187.png"
 },
@@ -314,7 +315,7 @@
   "id": "recovery-04",
   "albumId": "recovery",
   "trackNumber": 4,
-  "title": "Stormz",
+  "title": "35 Years",
   "src": "",
   "artwork": "./IMG_5187.png"
 },
@@ -322,7 +323,7 @@
   "id": "recovery-05",
   "albumId": "recovery",
   "trackNumber": 5,
-  "title": "Recovery",
+  "title": "Half A Century",
   "src": "",
   "artwork": "./IMG_5187.png"
 },
@@ -330,15 +331,15 @@
   "id": "recovery-06",
   "albumId": "recovery",
   "trackNumber": 6,
-  "title": "Jamie",
+  "title": "You've Everything To Live For",
   "src": "",
   "artwork": "./IMG_5187.png"
 },
-{
+  {
   "id": "recovery-07",
   "albumId": "recovery",
   "trackNumber": 7,
-  "title": "Hospital Records",
+  "title": "No More Idols",
   "src": "",
   "artwork": "./IMG_5187.png"
 },
@@ -346,7 +347,7 @@
   "id": "recovery-08",
   "albumId": "recovery",
   "trackNumber": 8,
-  "title": "35 Years",
+  "title": "The Depths Of Your Soul",
   "src": "",
   "artwork": "./IMG_5187.png"
 },
@@ -354,79 +355,7 @@
   "id": "recovery-09",
   "albumId": "recovery",
   "trackNumber": 9,
-  "title": "Half A Century",
-  "src": "",
-  "artwork": "./IMG_5187.png"
-},
-{
-  "id": "recovery-10",
-  "albumId": "recovery",
-  "trackNumber": 10,
-  "title": "And When We’re Done…",
-  "src": "",
-  "artwork": "./IMG_5187.png"
-},
-{
-  "id": "recovery-11",
-  "albumId": "recovery",
-  "trackNumber": 11,
-  "title": "Everything To Live For",
-  "src": "",
-  "artwork": "./IMG_5187.png"
-},
-{
-  "id": "recovery-12",
-  "albumId": "recovery",
-  "trackNumber": 12,
   "title": "The Recovery Of Something So Precious To Me It Breaks Your Heart",
-  "src": "",
-  "artwork": "./IMG_5187.png"
-},
-  {
-  "id": "recovery-13",
-  "albumId": "recovery",
-  "trackNumber": 13,
-  "title": "No More Idols",
-  "src": "",
-  "artwork": "./IMG_5187.png"
-},
-{
-  "id": "recovery-14",
-  "albumId": "recovery",
-  "trackNumber": 14,
-  "title": "Rise ‘27",
-  "src": "",
-  "artwork": "./IMG_5187.png"
-},
-{
-  "id": "recovery-15",
-  "albumId": "recovery",
-  "trackNumber": 15,
-  "title": "Can’t Stop Us",
-  "src": "",
-  "artwork": "./IMG_5187.png"
-},
-{
-  "id": "recovery-16",
-  "albumId": "recovery",
-  "trackNumber": 16,
-  "title": "Ain’t No Fair Fight",
-  "src": "",
-  "artwork": "./IMG_5187.png"
-},
-{
-  "id": "recovery-17",
-  "albumId": "recovery",
-  "trackNumber": 17,
-  "title": "Black Hearts",
-  "src": "",
-  "artwork": "./IMG_5187.png"
-},
-{
-  "id": "recovery-18",
-  "albumId": "recovery",
-  "trackNumber": 18,
-  "title": "Finale",
   "src": "",
   "artwork": "./IMG_5187.png"
 }
