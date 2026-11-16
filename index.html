@@ -670,6 +670,36 @@ footer{color:#6d7884;padding-top:35px;padding-bottom:165px;letter-spacing:.08em}
 }
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.album-card,.album-card img,.hero-link,.pbtn{transition:none}}
 
+
+/* Recovery album statement */
+.album-statement {
+  margin: 22px 0 30px;
+  padding: 25px 29px;
+  border-left: 2px solid rgba(221,235,247,.66);
+  background: linear-gradient(105deg,rgba(212,226,240,.065),rgba(212,226,240,.012));
+}
+.album-statement[hidden] { display:none; }
+.album-statement-label {
+  margin:0 0 14px;
+  color:#a6b5c3;
+  font-size:10px;
+  font-weight:720;
+  letter-spacing:.19em;
+  text-transform:uppercase;
+}
+.album-statement-copy {
+  margin:0;
+  max-width:77ch;
+  color:#e0e5eb;
+  font-family:Georgia,'Times New Roman',serif;
+  font-size:clamp(15px,1.65vw,19px);
+  font-weight:400;
+  line-height:1.8;
+}
+@media(max-width:580px) {
+  .album-statement {padding:20px 18px;margin:15px 0 24px;}
+}
+
 </style>
 </head>
 
@@ -735,6 +765,11 @@ footer{color:#6d7884;padding-top:35px;padding-bottom:165px;letter-spacing:.08em}
         <div id="releaseMeta" class="release-meta"></div>
       </div>
     </div>
+
+    <section id="recoveryStatement" class="album-statement" aria-label="Recovery album statement" hidden>
+      <div class="album-statement-label">A note on the album</div>
+      <p class="album-statement-copy">I came for the destruction of all evil. Not some poxy music career. Nevertheless, ordinary people might just appreciate this album half as much as I enjoyed playing it for. Every song in this album is deep within my experiences of life, love, and loss. I gave it my all!</p>
+    </section>
 
     <div id="trackList"></div>
 
@@ -877,6 +912,10 @@ function openAlbum(id){
   releaseCover.alt = `${album.title} cover`;
   releaseTitle.textContent = album.title;
   releaseMeta.textContent = `${album.releaseDate} • ${album.genre}`;
+
+  // Show this artist statement only for the RECOVERY release.
+  document.getElementById("recoveryStatement").hidden = ![album.id, album.title]
+    .some(value => String(value || "").trim().toLowerCase() === "recovery");
 
   queue = tracks
     .filter(t => t.albumId === id)
