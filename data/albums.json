@@ -1,15 +1,5 @@
 [
   {
-    "id": "thuru",
-    "title": "THURUBRED",
-    "type": "Album",
-    "releaseDate": "2026-12-28",
-    "genre": "Rap/ Hip-hop",
-    "songs": 12,
-    "duration": "",
-    "artwork": "./James Ritchie THURUBRED.png"
-  },
-  {
     "id": "recovery",
     "title": "RECOVERY",
     "type": "Album",
