@@ -291,7 +291,7 @@
   "id": "recovery-01",
   "albumId": "recovery",
   "trackNumber": 1,
-  "title": "Recovery",
+  "title": "Recovery (VIP)",
   "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Recovery/Recovery%20FIMA%20(Mastered%20with%20Aurora%20at%2047pct)%20(1).wav",
   "artwork": "./IMG_5187.png"
 },
@@ -299,7 +299,7 @@
   "id": "recovery-02",
   "albumId": "recovery",
   "trackNumber": 2,
-  "title": "Ghost Of You",
+  "title": "In Your Absence...",
   "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Recovery/Ghost%20Of%20You.wav",
   "artwork": "./IMG_5187.png"
 },
@@ -331,7 +331,7 @@
   "id": "recovery-06",
   "albumId": "recovery",
   "trackNumber": 6,
-  "title": "No More Idols",
+  "title": "Euphoria",
   "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Recovery/Project%20203%20No%20More%20Idols%20FIMA.m4a",
   "artwork": "./IMG_5187.png"
 },
@@ -339,7 +339,7 @@
   "id": "recovery-07",
   "albumId": "recovery",
   "trackNumber": 7,
-  "title": "The Depths Of Your Soul",
+  "title": "Constellations",
   "src": "",
   "artwork": "./IMG_5187.png"
 },
@@ -348,6 +348,38 @@
   "albumId": "recovery",
   "trackNumber": 8,
   "title": "The Recovery Of Something So Precious To Me It Breaks Your Heart",
+  "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Recovery/Project%20204%20THE%20RECOVERY%20OF%20SOMETHING%20SO%20PRECIOUS%E2%80%A6.m4a",
+  "artwork": "./IMG_5187.png"
+},
+  {
+  "id": "recovery-09",
+  "albumId": "recovery",
+  "trackNumber": 9,
+  "title": "Beyond The Speed Of Light",
+  "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Recovery/Project%20204%20THE%20RECOVERY%20OF%20SOMETHING%20SO%20PRECIOUS%E2%80%A6.m4a",
+  "artwork": "./IMG_5187.png"
+},
+  {
+  "id": "recovery-10",
+  "albumId": "recovery",
+  "trackNumber": 10,
+  "title": "Beyond Skies",
+  "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Recovery/Project%20204%20THE%20RECOVERY%20OF%20SOMETHING%20SO%20PRECIOUS%E2%80%A6.m4a",
+  "artwork": "./IMG_5187.png"
+},
+  {
+  "id": "recovery-11",
+  "albumId": "recovery",
+  "trackNumber": 11,
+  "title": "I Remember Your Voice",
+  "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Recovery/Project%20204%20THE%20RECOVERY%20OF%20SOMETHING%20SO%20PRECIOUS%E2%80%A6.m4a",
+  "artwork": "./IMG_5187.png"
+},
+  {
+  "id": "recovery-12",
+  "albumId": "recovery",
+  "trackNumber": 12,
+  "title": "I Know You...",
   "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Recovery/Project%20204%20THE%20RECOVERY%20OF%20SOMETHING%20SO%20PRECIOUS%E2%80%A6.m4a",
   "artwork": "./IMG_5187.png"
 }
