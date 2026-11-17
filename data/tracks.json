@@ -336,7 +336,7 @@
     "artwork": "./img_5187.png"
   },
   {
-    "id": "recovery-09",
+    "id": "recovery-07",
     "albumId": "recovery",
     "trackNumber": 7,
     "title": "Beyond Skies",
@@ -344,7 +344,7 @@
     "artwork": "./img_5187.png"
   },
   {
-    "id": "recovery-10",
+    "id": "recovery-08",
     "albumId": "recovery",
     "trackNumber": 8,
     "title": "I Know You...",
@@ -352,9 +352,9 @@
     "artwork": "./img_5187.png"
   },
   {
-    "id": "recovery-10",
+    "id": "recovery-09",
     "albumId": "recovery",
-    "trackNumber": 8,
+    "trackNumber": 9,
     "title": "The Recovery Of Something So Precious To Me It Breaks Your Heart (Vocal Edition)",
     "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Recovery/Project%20206%20breaks%20your%20heart.wav",
     "artwork": "./img_5187.png"
