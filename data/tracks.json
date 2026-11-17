@@ -287,100 +287,84 @@
     "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/THURUBRED/THURUBRED.wav",
     "artwork": "./James Ritchie THURUBRED.png"
   },
-{
-  "id": "recovery-01",
-  "albumId": "recovery",
-  "trackNumber": 1,
-  "title": "Recovery (Vocal Edition)",
-  "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Recovery/Project%20205%20Recovery%20vip.wav",
-  "artwork": "./img_5187.png"
-},
   {
-  "id": "recovery-02",
-  "albumId": "recovery",
-  "trackNumber": 2,
-  "title": "In Your Absence...",
-  "src": "",
-  "artwork": "./img_5187.png"
-},
-{
-  "id": "recovery-03",
-  "albumId": "recovery",
-  "trackNumber": 3,
-  "title": "Warmth",
-  "src": "",
-  "artwork": "./img_5187.png"
-},
-{
-  "id": "recovery-04",
-  "albumId": "recovery",
-  "trackNumber": 4,
-  "title": "Half A Century",
-  "src": "",
-  "artwork": "./img_5187.png"
-},
-{
-  "id": "recovery-05",
-  "albumId": "recovery",
-  "trackNumber": 5,
-  "title": "You've Everything To Live For",
-  "src": "",
-  "artwork": "./img_5187.png"
-},
+    "id": "recovery-01",
+    "albumId": "recovery",
+    "trackNumber": 1,
+    "title": "Recovery (Vocal Edition)",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Recovery/Project%20205%20Recovery%20vip.wav",
+    "artwork": "./img_5187.png"
+  },
   {
-  "id": "recovery-06",
-  "albumId": "recovery",
-  "trackNumber": 6,
-  "title": "Euphoria",
-  "src": "",
-  "artwork": "./img_5187.png"
-},
-{
-  "id": "recovery-07",
-  "albumId": "recovery",
-  "trackNumber": 7,
-  "title": "Constellations",
-  "src": "",
-  "artwork": "./img_5187.png"
-},
-{
-  "id": "recovery-08",
-  "albumId": "recovery",
-  "trackNumber": 8,
-  "title": "The Recovery Of Something So Precious To Me It Breaks Your Heart (Vocal Edition)",
-  "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Recovery/Project%20206%20breaks%20your%20heart.wav",
-  "artwork": "./img_5187.png"
-},
+    "id": "recovery-02",
+    "albumId": "recovery",
+    "trackNumber": 2,
+    "title": "In Your Absence...",
+    "src": "",
+    "artwork": "./img_5187.png"
+  },
   {
-  "id": "recovery-09",
-  "albumId": "recovery",
-  "trackNumber": 9,
-  "title": "Container",
-  "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Recovery/Project%20208%20Container.m4a",
-  "artwork": "./img_5187.png"
-},
+    "id": "recovery-03",
+    "albumId": "recovery",
+    "trackNumber": 3,
+    "title": "Warmth",
+    "src": "",
+    "artwork": "./img_5187.png"
+  },
   {
-  "id": "recovery-10",
-  "albumId": "recovery",
-  "trackNumber": 10,
-  "title": "Beyond Skies",
-  "src": "",
-  "artwork": "./img_5187.png"
-},
+    "id": "recovery-04",
+    "albumId": "recovery",
+    "trackNumber": 4,
+    "title": "Half A Century",
+    "src": "",
+    "artwork": "./img_5187.png"
+  },
   {
-  "id": "recovery-11",
-  "albumId": "recovery",
-  "trackNumber": 11,
-  "title": "I Remember Your Voice",
-  "src": "",
-  "artwork": "./img_5187.png"
-},
+    "id": "recovery-05",
+    "albumId": "recovery",
+    "trackNumber": 5,
+    "title": "Euphoria",
+    "src": "",
+    "artwork": "./img_5187.png"
+  },
   {
-  "id": "recovery-12",
-  "albumId": "recovery",
-  "trackNumber": 12,
-  "title": "I Know You...",
-  "src": "",
-  "artwork": "./img_5187.png"
-}
+    "id": "recovery-06",
+    "albumId": "recovery",
+    "trackNumber": 6,
+    "title": "Constellations",
+    "src": "",
+    "artwork": "./img_5187.png"
+  },
+  {
+    "id": "recovery-07",
+    "albumId": "recovery",
+    "trackNumber": 7,
+    "title": "The Recovery Of Something So Precious To Me It Breaks Your Heart (Vocal Edition)",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Recovery/Project%20206%20breaks%20your%20heart.wav",
+    "artwork": "./img_5187.png"
+  },
+  {
+    "id": "recovery-08",
+    "albumId": "recovery",
+    "trackNumber": 8,
+    "title": "Container",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Recovery/Project%20208%20Container.m4a",
+    "artwork": "./img_5187.png"
+  },
+  {
+    "id": "recovery-09",
+    "albumId": "recovery",
+    "trackNumber": 9,
+    "title": "Beyond Skies",
+    "src": "",
+    "artwork": "./img_5187.png"
+  },
+  {
+    "id": "recovery-10",
+    "albumId": "recovery",
+    "trackNumber": 10,
+    "title": "I Know You...",
+    "src": "",
+    "artwork": "./img_5187.png"
+  }
 ]
