@@ -8,15 +8,5 @@
     "songs": 12,
     "duration": "",
     "artwork": "./img_5187.png"
-  },
-    {
-    "id": "thuru",
-    "title": "THURUBRED",
-    "type": "Album",
-    "releaseDate": "2026-12-30",
-    "genre": "Electronic/ Rap",
-    "songs": 8,
-    "duration": "",
-    "artwork": "./James Ritchie THURUBRED.png"
   }
 ]
