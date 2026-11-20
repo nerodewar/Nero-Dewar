@@ -288,6 +288,126 @@
     "artwork": "./James Ritchie THURUBRED.png"
   },
   {
+    "id": "love-01",
+    "albumId": "love",
+    "trackNumber": 1,
+    "title": "Phasing",
+    "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/love%2C%20light%20%26%20memory/James%20Ritchie%20-%20Phasing.wav",
+    "artwork": "./Love, Light & Memory.png"
+  },
+  {
+    "id": "love-02",
+    "albumId": "love",
+    "trackNumber": 2,
+    "title": "First Thing On My Mind",
+    "src": "",
+    "artwork": "./Love, Light & Memory.png"
+  },
+  {
+    "id": "love-03",
+    "albumId": "love",
+    "trackNumber": 3,
+    "title": "This Is Reality",
+    "src": "",
+    "artwork": "./Love, Light & Memory.png"
+  },
+  {
+    "id": "love-04",
+    "albumId": "love",
+    "trackNumber": 4,
+    "title": "Between Rooms",
+    "src": "",
+    "artwork": "./Love, Light & Memory.png"
+  },
+  {
+    "id": "love-05",
+    "albumId": "love",
+    "trackNumber": 5,
+    "title": "Life Lasts Eternity Beyond All Reckoning",
+    "src": "",
+    "artwork": "./Love, Light & Memory.png"
+  },
+  {
+    "id": "love-06",
+    "albumId": "love",
+    "trackNumber": 6,
+    "title": "The Rest Is A Façade",
+    "src": "",
+    "artwork": "./Love, Light & Memory.png"
+  },
+  {
+    "id": "love-07",
+    "albumId": "love",
+    "trackNumber": 7,
+    "title": "Rosalia",
+    "src": "",
+    "artwork": "./Love, Light & Memory.png"
+  },
+  {
+    "id": "love-08",
+    "albumId": "love",
+    "trackNumber": 8,
+    "title": "Beauty",
+    "src": "",
+    "artwork": "./Love, Light & Memory.png"
+  },
+  {
+    "id": "love-09",
+    "albumId": "love",
+    "trackNumber": 9,
+    "title": "March Of The Drones",
+    "src": "",
+    "artwork": "./Love, Light & Memory.png"
+  },
+  {
+    "id": "love-10",
+    "albumId": "love",
+    "trackNumber": 10,
+    "title": "Static",
+    "src": "",
+    "artwork": "./Love, Light & Memory.png"
+  },
+  {
+    "id": "love-11",
+    "albumId": "love",
+    "trackNumber": 11,
+    "title": "Ancestors",
+    "src": "",
+    "artwork": "./Love, Light & Memory.png"
+  },
+  {
+    "id": "love-12",
+    "albumId": "love",
+    "trackNumber": 12,
+    "title": "Made For You",
+    "src": "",
+    "artwork": "./Love, Light & Memory.png"
+  },
+  {
+    "id": "love-13",
+    "albumId": "love",
+    "trackNumber": 13,
+    "title": "Truly",
+    "src": "",
+    "artwork": "./Love, Light & Memory.png"
+  },
+  {
+    "id": "love-14",
+    "albumId": "love",
+    "trackNumber": 14,
+    "title": "Out Of Our Depth",
+    "src": "",
+    "artwork": "./Love, Light & Memory.png"
+  },
+  {
+    "id": "love-15",
+    "albumId": "love",
+    "trackNumber": 15,
+    "title": "Love, Light & Memory",
+    "src": "",
+    "artwork": "./Love, Light & Memory.png"
+  },
+  {
     "id": "recovery-01",
     "albumId": "recovery",
     "trackNumber": 1,
