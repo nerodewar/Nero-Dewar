@@ -291,7 +291,7 @@
     "id": "recovery-01",
     "albumId": "recovery",
     "trackNumber": 1,
-    "title": "Recovery",
+    "title": "Recovery (Vocal Edition)",
     "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/Recovery/Project%20205%20Recovery%20vip.wav",
     "artwork": "./img_5187.png"
   },
@@ -339,7 +339,7 @@
     "id": "recovery-07",
     "albumId": "recovery",
     "trackNumber": 7,
-    "title": "STFU",
+    "title": "STFU (Extended Mix)",
     "src": "https://pub-fcb7451138fa4bf39b6e0d6f01a687a6.r2.dev/THURUBRED/stfu%20extended%20mix.wav",
     "artwork": "./img_5187.png"
   },
