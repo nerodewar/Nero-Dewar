@@ -1,1 +1,12 @@
-
+[
+  {
+    "id": "recovery",
+    "title": "RECOVERY",
+    "type": "Album",
+    "releaseDate": "2027-01-08",
+    "genre": "Euphoria",
+    "songs": 12,
+    "duration": "",
+    "artwork": "./img_5187.png"
+  }
+]
