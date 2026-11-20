@@ -8,5 +8,15 @@
     "songs": 10,
     "duration": "38 Min 35 Sec",
     "artwork": "./img_5187.png"
+  },
+    {
+    "id": "love",
+    "title": "Love, Light & Memory",
+    "type": "album",
+    "releaseDate": "2026-12-25",
+    "genre": "Modern classical",
+    "songs": 15,
+    "duration": "",
+    "artwork": "./Love, Light & Memory.png"
   }
 ]
