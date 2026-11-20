@@ -1,15 +1,5 @@
 [
   {
-    "id": "recovery",
-    "title": "RECOVERY",
-    "type": "album",
-    "releaseDate": "2026-11-20",
-    "genre": "Indie pop/ Rap",
-    "songs": 10,
-    "duration": "38 Min 35 Sec",
-    "artwork": "./img_5187.png"
-  },
-    {
     "id": "love",
     "title": "Love, Light & Memory",
     "type": "album",
@@ -18,5 +8,15 @@
     "songs": 15,
     "duration": "",
     "artwork": "./Love, Light & Memory.png"
+  },
+  {
+    "id": "recovery",
+    "title": "RECOVERY",
+    "type": "album",
+    "releaseDate": "2026-11-20",
+    "genre": "Indie pop/ Rap",
+    "songs": 10,
+    "duration": "38 Min 35 Sec",
+    "artwork": "./img_5187.png"
   }
 ]
