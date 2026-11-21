@@ -18,5 +18,15 @@
     "songs": 10,
     "duration": "38 Min 35 Sec",
     "artwork": "./img_5187.png"
+  },
+  {
+    "id": "bmth",
+    "title": "Teardrops",
+    "type": "Single",
+    "releaseDate": "2026-11-21",
+    "genre": "",
+    "songs": 1,
+    "duration": "",
+    "artwork": "./IMG_5159.png"
   }
 ]
