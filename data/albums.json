@@ -1,13 +1,13 @@
 [
   {
-    "id": "love",
-    "title": "Love, Light & Memory",
+    "id": "phasing",
+    "title": "Phasing",
     "type": "album",
-    "releaseDate": "2026-12-25",
-    "genre": "Modern classical",
-    "songs": 15,
+    "releaseDate": "2026-11-27",
+    "genre": "",
+    "songs": 3,
     "duration": "",
-    "artwork": "./Love, Light & Memory.png"
+    "artwork": "./Phasing.png"
   },
   {
     "id": "recovery",
